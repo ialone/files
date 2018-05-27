@@ -54,7 +54,7 @@
  
 <item>
 <title>test 1</title>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xsat.me:31000/live/Abdulmajid/Abdulmajid/600.ts </link>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://xsat.me:31000/live/Abdulmajid/Abdulmajid/600.ts</link>
 <thumbnail></thumbnail>
 </item>
  
