@@ -1,0 +1,101 @@
+<item>
+<title>9/11 Loose Change: American Coup 2007 FINAL CUT </title>
+<link>https://www.youtube.com/watch?v=TjYQP0ly-lw</link>
+<thumbnail>https://i.ytimg.com/vi/0skCyy7TObQ/movieposter.jpg</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 THE AIRPLANES</title>
+<link>https://www.youtube.com/watch?v=8uM4z7vOJTk</link>
+<thumbnail>https://i.ytimg.com/vi/8uM4z7vOJTk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAbA9QIJ1-pNmpSN0Qfobj1lYLRaQ</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 IN PLANE SIGHT DIRECTORS CUT</title>
+<link>https://www.youtube.com/watch?v=igX7Z8VstN4</link>
+<thumbnail>https://i.ytimg.com/vi/igX7Z8VstN4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBqge3RxJ1-TNkGtg2MlhHfSdnDtg</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 TRILLIONS : FOLLOW THE MNEY</title>
+<link>https://www.youtube.com/watch?v=n3xgjxJwedA</link>
+<thumbnail>https://i.ytimg.com/vi/n3xgjxJwedA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDP2reoHh8Ay2fMy72xXXVLoSmdyA</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 ANATOMY OF A GREAT DECEPTION</title>
+<link>https://www.youtube.com/watch?v=9v2TAiyW54Q</link>
+<thumbnail>https://i.ytimg.com/vi/6wJk56ve0GY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD45SI0Q6kxl8E_Ab-X5nYdMyQjdw</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 THE NEW PEARL HARBOR PART 1</title>
+<link>https://www.youtube.com/watch?v=O1GCeuSr3Mk</link>
+<thumbnail>https://i.ytimg.com/vi/-v_JMHSv6uM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAO_zf2hHuUYuaTz0Ib19HjoBuyaA</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 THE NEW PEARL HARBOR PART 2</title>
+<link>https://www.youtube.com/watch?v=K7mDXHn_byA</link>
+<thumbnail>https://i.ytimg.com/vi/-v_JMHSv6uM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAO_zf2hHuUYuaTz0Ib19HjoBuyaA</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 THE NEW PEARL HARBOR PART 3</title>
+<link>https://www.youtube.com/watch?v=DegLpgJmFL8</link>
+<thumbnail>https://i.ytimg.com/vi/-v_JMHSv6uM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAO_zf2hHuUYuaTz0Ib19HjoBuyaA</thumbnail>
+</item>
+ 
+<item>
+<title>9/11 DECADE OF DECEPTION</title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title>test 2</title>
+<link>http://xsat.me:31000/live/Abdulmajid/Abdulmajid/600.ts </link>
+<thumbnail></thumbnail>
+</item>
+ 
+<plugin>
+<title>test 3 new</title>
+<link>plugin://plugin.video.youtube/channel/XOacA3RYrXk/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+ 
+https://www.youtube.com/watch?v=XOacA3RYrXk
+ 
+<item>
+<title>test4</title>
+<link>https://youtu.be/XOacA3RYrXk</link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title> 5 test</title>
+<link>https://www.youtube.com/watch?v=XOacA3RYrXk</link>
+<thumbnail></thumbnail>
+</item>
+ 
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+</item>
+ 
+Playlist
+ 
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+ 
+Channel
+ 
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
