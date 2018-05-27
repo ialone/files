@@ -1,0 +1,21 @@
+<item>
+<title>The Plot To Kill RFK</title>
+<link>https://www.youtube.com/watch?v=7sKh9JnpGRk</link>
+<thumbnail>https://i.ytimg.com/vi/7sKh9JnpGRk/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCkP3fBzibiikH62Q3Cpd1JHQ_aHA</thumbnail>
+</item>
+ 
+Playlist
+ 
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+ 
+Channel
+ 
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
