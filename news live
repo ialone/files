@@ -21,3 +21,14 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://youtu.be/wi8rq-t_PBc|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
 <thumbnail></thumbnail>
 </plugin>
+
+<plugin>
+<title>testing 2</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/embed/RxuR0qFD6yo?rel=0&showinfo=0&autoplay=1&playsinline=1|Use</link>
+<thumbnail></thumbnail>
+</plugin>
+
+plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/embed/RxuR0qFD6yo?rel=0&showinfo=0&autoplay=1&playsinline=1|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+
+
+
