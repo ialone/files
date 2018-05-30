@@ -23,8 +23,8 @@
 </plugin>
 
 <plugin>
-<title>testing 2</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/embed/RxuR0qFD6yo?rel=0&showinfo=0&autoplay=1&playsinline=1|Use</link>
+<title>testing 3</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=https://www.youtube.com/embed/RxuR0qFD6yo?rel=0&showinfo=0&autoplay=1&playsinline=1|Use</link>
 <thumbnail></thumbnail>
 </plugin>
 
