@@ -15,3 +15,9 @@
 <link>https://youtu.be/wi8rq-t_PBc</link>
 <thumbnail></thumbnail>
 </item>
+
+<plugin>
+<title>great danes 2</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/embed/wi8rq-t_PBc|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail></thumbnail>
+</plugin>
