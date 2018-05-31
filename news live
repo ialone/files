@@ -3,7 +3,13 @@
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/embed/XOacA3RYrXk|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
 <thumbnail>https://i.ytimg.com/vi/XOacA3RYrXk/hqdefault_live.jpg?sqp=CKC7wdgF-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCEifKQ5NjbrgZSWhh9Af5KkNU0Vg</thumbnail>
 </plugin>
-      
+ 
+<plugin>
+<title>SKY NEWS INTERNATIONAL test</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/watch?v=XOacA3RYrXk|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
+<thumbnail>https://i.ytimg.com/vi/XOacA3RYrXk/hqdefault_live.jpg?sqp=CKC7wdgF-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCEifKQ5NjbrgZSWhh9Af5KkNU0Vg</thumbnail>
+</plugin>
+
 <plugin>
 <title>AL JAZEERA NEWS (english)</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/embed/XbZjFCGZ1Mc|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
