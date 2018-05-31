@@ -29,6 +29,15 @@
 </plugin>
 
 <plugin>
+<title>ABC NEWS AUSTRALIA TEST</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher=streams&url=https://www.youtube.com/embed/sSTH5sBWcVQ?rel=0&showinfo=0&autoplay=1&playsinline=1|Use</link>
+<thumbnail></thumbnail>
+      
+      
+        
+</plugin>
+
+<plugin>
 <title>DW</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=https://www.youtube.com/embed/m5Nst2zMZVY|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36</link>
 <thumbnail>https://i.ytimg.com/vi/m5Nst2zMZVY/hqdefault_live.jpg?sqp=CMi2wdgF-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLALzLY1b1dNFcS6bWcNbJagUDLftAhttps://i.ytimg.com/vi/m5Nst2zMZVY/hqdefault_live.jpg?sqp=CMi2wdgF-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLALzLY1b1dNFcS6bWcNbJagUDLftA</thumbnail>
