@@ -1,1 +1,77 @@
+<item>
 
+<title>ED GEIN</title>
+
+<link>https://www.youtube.com/watch?v=6EJ69haCF3s</link>
+
+<thumbnail>https://i.ytimg.com/vi/e09HkMY_8cM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBmIw5COaujNSrK7KyywvmmAhYJkA</thumbnail>
+
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Single Link
+
+
+
+<item>
+
+<title></title>
+
+<link>**youtube link**</link>
+
+<thumbnail></thumbnail>
+
+</item>
+
+
+
+Playlist
+
+
+
+<plugin>
+
+<title></title>
+
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+
+<thumbnail></thumbnail>
+
+</plugin>
+
+
+
+Channel
+
+
+
+<plugin>
+
+<title></title>
+
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+
+<thumbnail></thumbnail>
+
+</plugin>
