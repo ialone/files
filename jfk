@@ -65,9 +65,15 @@
 <thumbnail>https://i.ytimg.com/vi/ygY7Jerm1Pk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDc_a6rSn07f8Qt11BZjUbf8Khf4w</thumbnail>
 </item>
  
+<plugin>
+<title>EVIDENCE OF REVISON test</title>
+<link>plugin://plugin.video.youtube/playlist/PL6AA5sFpidYauL_0GucCd9Bh3xn4Dpedc</link>
+<thumbnail>https://i.ytimg.com/vi/ABv1qRk2hpo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA612O7e1gLMZWZaN8jnm7nZ-fkiA</thumbnail>
+</plugin>
+
 <item>
-<title>EVIDENCE OF REVISON</title>
-<link>plugin://plugin.video.youtube/playlist/PL6AA5sFpidYauL</link>
+<title>EVIDENCE OF REVISION DVD EXTRAS</title>
+<link>https://www.youtube.com/watch?v=zqsuQOAtN2E</link>
 <thumbnail>https://i.ytimg.com/vi/ABv1qRk2hpo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA612O7e1gLMZWZaN8jnm7nZ-fkiA</thumbnail>
 </item>
  
