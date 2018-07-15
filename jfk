@@ -41,7 +41,7 @@
 </item>
  
 <plugin>
-<title>THE MEN WHO KILLED KENNEDY 9 PART COLLECTION test</title>
+<title>THE MEN WHO KILLED KENNEDY 9 PART COLLECTION</title>
 <link>plugin://plugin.video.youtube/playlist/PLxt6wHBKIdID2wIO4g6ziHgdEzZisEmdT/</link>
 <thumbnail>https://i.ytimg.com/vi/0VRvK89trZ0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC3hpiaWoMuIeOYXgHPp78QmuNhOg</thumbnail>
 </plugin>
@@ -65,8 +65,9 @@
 </item>
  
 <plugin>
-<title>EVIDENCE OF REVISON test4</title>
+<title>EVIDENCE OF REVISON test5</title>
 <link>plugin://plugin.video.youtube/playlist/PLFo5dIXYUbQAK2BQfofZijoz3gn5ER2Lf/</link>
+<sublink>plugin://plugin.video.youtube/playlist/PL6AA5sFpidYauL_0GucCd9Bh3xn4Dpedc/</sublink>
 <thumbnail>https://i.ytimg.com/vi/ABv1qRk2hpo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA612O7e1gLMZWZaN8jnm7nZ-fkiA</thumbnail>
 </plugin>
 
