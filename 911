@@ -66,8 +66,14 @@
  
 <item>
 <title>9/11 DECADE OF DECEPTION</title>
-<link>http://91.215.49.3:8090/CBS_Action/index.m3u8</link>
-<thumbnail></thumbnail>
+<link>https://www.youtube.com/watch?v=T1Li2cDGyCM</link>
+<thumbnail>https://i.ytimg.com/vi/XcF5jWZFQqI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCQf2Kmg7IAfocwQPq49oeUEOrq7w</thumbnail>
+</item>
+
+<item>
+<title>9/11 10 YEARS OF DECEPTION</title>
+<link>https://www.youtube.com/watch?v=UpB819jAGqw</link>
+<thumbnail>https://i.ytimg.com/vi/HfqCNVl0eh4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBgIZTomI5_-GPyvFN_6kC8mYlx1g</thumbnail>
 </item>
  
 <plugin>
