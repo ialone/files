@@ -6,14 +6,14 @@
       
 <item>
 <title>A TRIP AROUND CORK 80S PART 2</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://www.youtube.com/watch?v=Cl994-MVUCU</link>
+<thumbnail>https://i.ytimg.com/vi/Cl994-MVUCU/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSEbyq4qpAwkIARUAAI5CGAE=&rs=AOn4CLA-vEEay4-WwHlb_ac_hI4gjJkkcQ</thumbnail>
 </item>
       
 <item>
 <title>A TRIP AROUND CORK 80S PART 3</title>
-<link></link>
-<thumbnail></thumbnail>
+<link>https://www.youtube.com/watch?v=T151u0up7ac</link>
+<thumbnail>https://i.ytimg.com/vi/T151u0up7ac/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSEbyq4qpAwkIARUAAI5CGAE=&rs=AOn4CLClm95YWGuoaXn63h-uX3TRB264cA</thumbnail>
 </item>
       
 <item>
@@ -21,6 +21,12 @@
 <link>https://www.youtube.com/watch?v=HB5nlMjiACU</link>
 <thumbnail>https://i.ytimg.com/vi/HB5nlMjiACU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLB3YFAmabU-K8tXWE527EVgDYw1ZA</thumbnail>
 </item>
+
+<plugin>
+<title>WILLIAM BAILEY NOSTALGIA NAD MUSIC</title>
+<link>plugin://plugin.video.youtube/channel/UC0wPF9h52jEQsVIKMAd6EEw/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
       
 <item>
 <title>COME UP TO GURRAN LIZZY WINDSOR</title>
@@ -33,9 +39,15 @@
 <link>https://www.youtube.com/watch?v=bAPJZD5cRsw</link>
 <thumbnail>https://i.ytimg.com/vi/bAPJZD5cRsw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLA8fEHz1p-RvyJmfBD8jYcUb-2fAQ</thumbnail>
 </item>
+
+<plugin>
+<title>96 FM CLASSIC WIND UPS </title>
+<link>plugin://plugin.video.youtube/channel/UCP_cNVcymXw5RVewaY1r87Q/playlists/</link>
+<thumbnail>https://i.ytimg.com/vi/HwpESFF7BTg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMcfCIOy_36z7wu3g-vaUs4SMCgg</thumbnail>
+</plugin>
       
 <item>
-<title></title>
-<link></link>
-<thumbnail></thumbnail>
+<title>THE BURNING OF CORK OPERA HOUSE 1955</title>
+<link>https://www.youtube.com/watch?v=nUcQfXupAgA</link>
+<thumbnail>https://i.ytimg.com/vi/nUcQfXupAgA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSEbyq4qpAwkIARUAAI5CGAE=&rs=AOn4CLBsId_eytTFGSITxf2s8LayDnNHOA</thumbnail>
 </item>
