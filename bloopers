@@ -1,0 +1,87 @@
+<item>
+<title>Peter Sellers - Pink Panther Outtakes</title>
+<link>https://www.youtube.com/watch?v=jEcq4tuBzn4</link>
+<thumbnail>https://i.ytimg.com/vi/jEcq4tuBzn4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLCAwPyDdc_VpPFlud6ZrS01XAnq-Q</thumbnail>
+</item>
+
+<item>
+<title>The Chase - Fanny Chmelar</title>
+<link>https://www.youtube.com/watch?v=jl1Zfz-Widc</link>
+<thumbnail>https://i.ytimg.com/vi/vyWDYi5Ixy8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLD4EpFwQYD9XdSeS_Av9QAx33aO2w</thumbnail>
+</item>
+
+<plugin>
+<title>It'll Be Alright on the Night</title>
+<link>plugin://plugin.video.youtube/playlist/PLWWpYNxRtM-sCUyDnQlKMQz-dWcO08Wea/</link>
+<thumbnail>https://i.ytimg.com/vi/C9uVjHcDbQc/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLCEzZQUU38JE0Y9rp6eDUD4BcVY6g</thumbnail>
+</plugin>
+
+<item>
+<title>ONLY FOOLS AND HORSES BLOOPERS</title>
+<link>https://www.youtube.com/watch?v=dBs7ofVfawQ</link>
+<thumbnail>https://i.ytimg.com/vi/bxhvflhwzAk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLByPYidEE5AawEA-kKhSBFZE3BcNQ</thumbnail>
+</item>
+
+<item>
+<title>CELEBRITY JUICE TOO JUICY FOR TV PART 1</title>
+<link>https://www.youtube.com/watch?v=wnYDpWMcWlg</link>
+<thumbnail>https://i.ytimg.com/vi/2hUvB7n0SJA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBZE2gd-G3lcY0VzsAyyKkAiY3Xkg</thumbnail>
+</item>
+
+<item>
+<title>CELEBRITY JUICE TOO JUICY FOR TV PART 2</title>
+<link>https://www.youtube.com/watch?v=3ORBWWb3Kh4</link>
+<thumbnail>https://i.ytimg.com/vi/3ORBWWb3Kh4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLB4FJhugyK78Mfnz2_8b_3sAO8Gnw</thumbnail>
+</item>
+
+<item>
+<title>KEEPING UP APPEARNCES BLOOPERS</title>
+<link>https://www.youtube.com/watch?v=aZKpofeGoiM</link>
+<thumbnail>https://i.ytimg.com/vi/aZKpofeGoiM/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLAUrbyfOUT2lsKhL-zouDgyroFFQg</thumbnail>
+</item>
+
+<plugin>
+<title>ABSOULUTELY FABULOUS BLOOPERS</title>
+<link>plugin://plugin.video.youtube/playlist/PL7lKH36BMkqDoVTuLhLKNuqdKOj3y1-xe/</link>
+<thumbnail>https://i.ytimg.com/vi/CvH0Hj5zj_E/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLBBX_dL8INFV93KBxUqmtFz0Df_TA</thumbnail>
+</plugin>
+
+<item>
+<title>RICKY GERVAIS BLOOPERS</title>
+<link>https://www.youtube.com/watch?v=aASwA5Wwqco</link>
+<thumbnail>https://i.ytimg.com/vi/aASwA5Wwqco/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLCQQPJKqjeSe9qcHfsG7Y9RpMyxJg</thumbnail>
+</item>
+
+<item>
+<title>GAME SHOW BLOOPERS</title>
+<link>https://www.youtube.com/watch?v=R7ghDhpCLKM</link>
+<thumbnail>https://i.ytimg.com/vi/2UGXv_2O3iE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IRvKriqkDCQgBFQAAjkIYAQ==&rs=AOn4CLC9YX3BnwWWkuB_8owGXIDrCk5k_g</thumbnail>
+</item>
+
+
+https://www.youtube.com/watch?v=R7ghDhpCLKM
+
+
+Single Link
+
+<item>
+<title></title>
+<link>**youtube link**</link>
+<thumbnail></thumbnail>
+</item>
+
+Playlist
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
