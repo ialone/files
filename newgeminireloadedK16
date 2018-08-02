@@ -45,3 +45,8 @@
 <link>plugin://plugin.video.youtube/kodion/search/list/</link>
 <thumbnail></thumbnail>
 </plugin>
+
+<dir>
+  <title>Artist Chart</title>
+  <lastfm>chart/artists</lastfm>
+</dir>
