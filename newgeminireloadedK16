@@ -68,7 +68,7 @@
 
         <item>
             <title>RIO LOBO (1970)</title>
-            <trailer>plugin://plugin.video.youtube/play/?video_id=HH9CzTNGAeo</trailer>
+            <link>plugin://plugin.video.youtube/play/?video_id=HH9CzTNGAeo</link>
             <info>Provides the Trailer context link for this movie when Metadata is DISABLED in your addon.</info>
             <thumbnail>https://i.ytimg.com/vi/HH9CzTNGAeo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnpcgIiPFNKOhFAtlGY1sZmA1oOA</thumbnail>
         </item>
