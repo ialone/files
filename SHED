@@ -5,15 +5,51 @@
 </plugin>
 
 <plugin>
+<title>GROUND FORCE</title>
+<link>plugin://plugin.video.youtube/channel/UC9iAKCOQlCojXaOtvnYOdUQ/</link>
+<thumbnail>https://yt3.ggpht.com/LAFUaIcKaoCr8fNVFxi4R7l10UHg9zsEaFF1ceqmp5pfE0-pVcD3rcvHThQGeccWMNmNz1JO0ZcPToUBCA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
+<title>GROUND FORCE 2</title>
+<link>plugin://plugin.video.youtube/playlist/PL_S0SBdplopz4eWTmSFTL8bUlzgzK6Wql/</link>
+<thumbnail>https://yt3.ggpht.com/LAFUaIcKaoCr8fNVFxi4R7l10UHg9zsEaFF1ceqmp5pfE0-pVcD3rcvHThQGeccWMNmNz1JO0ZcPToUBCA=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
 <title>HOLMES INSPECTION</title>
 <link>plugin://plugin.video.youtube/playlist/PL_AaZ14s3bfFHld1oqvETeBKwBW8pl2Vv/</link>
 <thumbnail>https://i.ytimg.com/vi/nKLg5EQ9Vpo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBT1yAivN1hK9-QUMHDr1PGBNnAvw</thumbnail>
 </plugin>
 
 <plugin>
+<title>SALVAGE SQUAD</title>
+<link>plugin://plugin.video.youtube/playlist/PLkJJPZaA16X8g4Rk2mE274fPkF7TJ_KjU/</link>
+<thumbnail>https://i.ytimg.com/vi/XC0A2BhtoPs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDCG866eHIY7nvy4gCh_D1sjMbenQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>DIY SOS</title>
+<link>plugin://plugin.video.youtube/playlist/PLgsumPN8aQt8oLOow4uUEQ_SUmadMVihY/</link>
+<thumbnail>https://yt3.ggpht.com/9H-e4Yj6K99IvxsnPXM3vnmT3yx37LWp6ng7vbd1O3uXahVT56VTAGNUrDGyRuSL4fFYH3ybvzVn9HiqXeY=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
 <title>THIS OLD HOUSE</title>
 <link>plugin://plugin.video.youtube/channel/UCUtWNBWbFL9We-cdXkiAuJA/playlists/</link>
 <thumbnail>https://yt3.ggpht.com/14yXPjsEWiGJvksdal0H0c9YDDjF54AdfSD7vh0RRuc4mZOwOZB_Kq4wxKrGMRdodMz5pB-eAFH_Jw=s640-nd</thumbnail>
+</plugin>
+
+<plugin>
+<title>THE SALVAGER</title>
+<link>plugin://plugin.video.youtube/playlist/PLaSgAsbH40vDb-XO-W6xUMpctVZS5NUz2/</link>
+<thumbnail>https://i.ytimg.com/vi/dyah1Sfobr8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCCrlPi5FD2suAdWO_87--8iZ7fFw</thumbnail>
+</plugin>
+
+<plugin>
+<title>THE SALVAGER 2</title>
+<link>plugin://plugin.video.youtube/playlist/PLQutV2SeeLrfz0qaIZ2g2VE6d7UystmwW/</link>
+<thumbnail>https://i.ytimg.com/vi/dyah1Sfobr8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCCrlPi5FD2suAdWO_87--8iZ7fFw</thumbnail>
 </plugin>
 
 <item>
