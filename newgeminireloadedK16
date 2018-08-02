@@ -62,8 +62,8 @@
 </dir>
 
         <item>
-            <title>Password Protected Remote File</title>
-            <passreq>pass|https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiBgPD7_c7cAhUOL1AKHR68DfYQwqsBMAB6BAgFEAQ&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DT9CdNSXkLlU&usg=AOvVaw1EWeXET-_tnQeX-_V-rGOb</passreq>
+            <title>Password test</title>
+            <passreq>pass|https://raw.githubusercontent.com/ialone/files/master/nostalgia%20cork</passreq>
         </item>
 
         <item>
