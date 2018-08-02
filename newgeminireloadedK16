@@ -39,3 +39,9 @@
 <thumbnail>https://i.ytimg.com/vi/DHV9QrHL9u8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCEJbdnxhcEmMfwpb1BMTFS8hzY1w</thumbnail>
 <fanart></fanart>
 </dir>
+
+<plugin>
+<title>Search Music</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail></thumbnail>
+</plugin>
