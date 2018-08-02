@@ -23,6 +23,12 @@
 </plugin>
 
 <plugin>
+<title>HOLMES ON HOLMES</title>
+<link>plugin://plugin.video.youtube/playlist/PLB_rFhXa8_OxysAp-02S7y35CsvLjhmQR/</link>
+<thumbnail>https://yt3.ggpht.com/vupZHr_O3IAHVFqJjMwhOguip-JFNXqfmnCwnP825Mng8DuctcI8KRhYymdhHoWQJ8ZS71Uqv703XEKV=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
 <title>SALVAGE SQUAD</title>
 <link>plugin://plugin.video.youtube/playlist/PLkJJPZaA16X8g4Rk2mE274fPkF7TJ_KjU/</link>
 <thumbnail>https://i.ytimg.com/vi/XC0A2BhtoPs/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDCG866eHIY7nvy4gCh_D1sjMbenQ</thumbnail>
@@ -32,6 +38,24 @@
 <title>DIY SOS</title>
 <link>plugin://plugin.video.youtube/playlist/PLgsumPN8aQt8oLOow4uUEQ_SUmadMVihY/</link>
 <thumbnail>https://yt3.ggpht.com/9H-e4Yj6K99IvxsnPXM3vnmT3yx37LWp6ng7vbd1O3uXahVT56VTAGNUrDGyRuSL4fFYH3ybvzVn9HiqXeY=s288-mo-c-c0xffffffff-rj-k-no</thumbnail>
+</plugin>
+
+<plugin>
+<title>ULTIMATE SURVIVAL ALASKA</title>
+<link>plugin://plugin.video.youtube/channel/UCeP2nvH_0RhbaCH7dUlmAlg/playlists/</link>
+<thumbnail>https://i.ytimg.com/sh/MOxA8cBfINGVqi7fquknFQ/market.jpg</thumbnail>
+</plugin>
+
+<plugin>
+<title>GRAND DESIGNS</title>
+<link>plugin://plugin.video.youtube/playlist/PLANo_TNx1Tu7zDqkBZezCG3t-e-9bkw58/</link>
+<thumbnail>https://i.ytimg.com/vi/XxWRUl-n_pQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA0Slg5Yc26kXNxyj6RpSmU9j6u5Q</thumbnail>
+</plugin>
+
+<plugin>
+<title>ROGUE TRADERS</title>
+<link>plugin://plugin.video.youtube/playlist/PLcrgIC9Gjc5WvXA1gjeTGbuMNi10VNX9j/</link>
+<thumbnail>https://i.ytimg.com/vi/FwFOUt5w_VM/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDsID1uMH3mfRFYY3RmMp7MtrXQ9Q</thumbnail>
 </plugin>
 
 <plugin>
