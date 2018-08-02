@@ -1,0 +1,35 @@
+<plugin>
+<title>NEW YANKEE WORKSHOP</title>
+<link>plugin://plugin.video.youtube/channel/UCDEtm6nfy4W4TBS0UpsPYHw/playlists/</link>
+<thumbnail>https://i.ytimg.com/vi/3n0UwhwC9DI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBT9vGOQy18S8SycRCTGni5l85QWQ</thumbnail>
+</plugin>
+
+<item>
+   <title></title>
+   <link></link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+
+Playlist
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
