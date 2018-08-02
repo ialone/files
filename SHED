@@ -4,6 +4,18 @@
 <thumbnail>https://i.ytimg.com/vi/3n0UwhwC9DI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBT9vGOQy18S8SycRCTGni5l85QWQ</thumbnail>
 </plugin>
 
+<plugin>
+<title>HOLMES INSPECTION</title>
+<link>plugin://plugin.video.youtube/playlist/PL_AaZ14s3bfFHld1oqvETeBKwBW8pl2Vv/</link>
+<thumbnail>https://i.ytimg.com/vi/nKLg5EQ9Vpo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBT1yAivN1hK9-QUMHDr1PGBNnAvw</thumbnail>
+</plugin>
+
+<plugin>
+<title>THIS OLD HOUSE</title>
+<link>plugin://plugin.video.youtube/channel/UCUtWNBWbFL9We-cdXkiAuJA/playlists/</link>
+<thumbnail>https://yt3.ggpht.com/14yXPjsEWiGJvksdal0H0c9YDDjF54AdfSD7vh0RRuc4mZOwOZB_Kq4wxKrGMRdodMz5pB-eAFH_Jw=s640-nd</thumbnail>
+</plugin>
+
 <item>
    <title></title>
    <link></link>
