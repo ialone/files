@@ -47,6 +47,14 @@
 <fanart></fanart>
 </dir>
 
+        <item>
+
+        <title>Password test</title>
+
+        <passreq>cGFzc3xodHRwczovL3Bhc3RlYmluLmNvbS9yYXcvVFJ3SFJ3U1Y=</passreq>
+
+        </item>
+
 <plugin>
 <title>Search Music</title>
 <link>plugin://plugin.video.youtube/kodion/search/list/</link>
@@ -67,21 +75,8 @@
   <title>Blind Guardian Albums</title>
   <lastfm>artist/Michael+Jackson/albums</lastfm>
 </dir>
-
-        <item>
-            <title>Password test</title>
-            <passreq>pass|https://raw.githubusercontent.com/ialone/files/master/nostalgia%20cork</passreq>
-        </item>
         
-        <item>
-        <title>Password test 2</title>
-        <passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci9ub3N0YWxnaWElMjBjb3Jr</passreq>
-        </item>
-        
-        
-        cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci9ub3N0YWxnaWElMjBjb3Jr
-
-        <item>
+       <item>
             <title>RIO LOBO (1970)</title>
             <link>plugin://plugin.video.youtube/play/?video_id=HH9CzTNGAeo</link>
             <info>Provides the Trailer context link for this movie when Metadata is DISABLED in your addon.</info>
