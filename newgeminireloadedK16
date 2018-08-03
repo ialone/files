@@ -82,3 +82,15 @@
             <info>Provides the Trailer context link for this movie when Metadata is DISABLED in your addon.</info>
             <thumbnail>https://i.ytimg.com/vi/HH9CzTNGAeo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnpcgIiPFNKOhFAtlGY1sZmA1oOA</thumbnail>
         </item>
+        
+<dir>
+<name>testing</name>
+<link>http://iptvtool.es:9977/get.php?username=CAMI&password=CAMI&type=m3u</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+        
+        
+        
+        
