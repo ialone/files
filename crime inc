@@ -1,1 +1,50 @@
+<item>
+   <title></title>
+   <link></link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
 
+<item>
+<item? 
+ <title>AL CAPONE: THE REAL SCARFACE</title>
+   <link>https://www.youtube.com/watch?v=f5Eexh3jFjw</link>
+   <thumbnail>https://i.ytimg.com/vi/f5Eexh3jFjw/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDqWK6wDqkykx_y2--yXyXwX3CNRg</thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title></title>
+   <link></link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title></title>
+   <link></link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+Playlist
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Search Music</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail></thumbnail>
+</plugin>
