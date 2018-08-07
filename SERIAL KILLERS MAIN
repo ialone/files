@@ -1,3 +1,9 @@
+<plugin>
+<title>SEARCH FOR MORE SERIAL KILLERS</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail></thumbnail>
+</plugin>
+
 <item>
 <title>ED GEIN</title>
 <link>https://www.youtube.com/watch?v=6EJ69haCF3s</link>
@@ -50,6 +56,12 @@
 <title>ZODIAC</title>
 <link>https://www.youtube.com/watch?v=AeigE-sDyc0</link>
 <thumbnail>https://i.ytimg.com/vi/AeigE-sDyc0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnvY4opav_ZSFBpeOev6fSqMQoXA</thumbnail>
+</item>
+
+<item>
+<title>DONALD NIELSEN:THE BLACK PANTHER</title>
+<link>https://www.youtube.com/watch?v=mEjWiNMFg1I</link>
+<thumbnail>https://i.ytimg.com/vi/mEjWiNMFg1I/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCW7wyZPDtGmiiLmenm2c_mtztU6A</thumbnail>
 </item>
 
 <item>
@@ -107,28 +119,24 @@
 </item>
 
 <item>
-<title></title>
-<link>**youtube link**</link>
-<thumbnail></thumbnail>
+<title>BTK KILLER </title>
+<link></link>
+<thumbnail>https://i.ytimg.com/vi/-CuQynlDwGo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCHql34LNMIz6GMdeANldtcJrAf7w</thumbnail>
+</item>
+
+<item>
+<title>DAVID BERKOWITZ:SON OF SAM</title>
+<link>https://www.youtube.com/watch?v=oHDWOcF8hZ4</link>
+<thumbnail>https://i.ytimg.com/vi/oHDWOcF8hZ4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB9boJJg0TjYLrCYadrQddNrcgJUg</thumbnail>
 </item>
 
 <item>
 <title></title>
-<link>**youtube link**</link>
+<link></link>
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title></title>
-<link>**youtube link**</link>
-<thumbnail></thumbnail>
-</item>
 
-<plugin>
-<title>SEARCH FOR MORE SERIAL KILLERS</title>
-<link>plugin://plugin.video.youtube/kodion/search/list/</link>
-<thumbnail></thumbnail>
-</plugin>
 
 
 
