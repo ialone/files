@@ -55,6 +55,13 @@
 </dir>
 
 <dir>
+   <name>xxx test</name>
+   <link>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94eHglMjB0ZXN0</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</dir>
+
+<dir>
 <name>XXX TEST 2 (password protected)</name>
 <link>ignoreme</link>
 <passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94eHglMjB0ZXN0</passreq>
