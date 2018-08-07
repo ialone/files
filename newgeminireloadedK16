@@ -54,6 +54,13 @@
 <fanart></fanart>
 </dir>
 
+<dir>
+<name>XXX TEST (password protected)</name>
+<passreq></passreq>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
         <item>
 
         <title>Password test</title>
