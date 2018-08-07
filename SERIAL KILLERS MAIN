@@ -5,6 +5,12 @@
 </item>
 
 <item>
+<title>DENNIS NEILSEN</title>
+<link>https://www.youtube.com/watch?v=MU3S927XMD4</link>
+<thumbnail>https://i.ytimg.com/vi/MU3S927XMD4/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB9vMUcTldnjGYdgSpeqNzuFmSb5A</thumbnail>
+</item>
+
+<item>
 <title>JEFFREY DAHMER</title>
 <link>https://www.youtube.com/watch?v=Xe5OixqeLVw</link>
 <thumbnail>https://i.ytimg.com/vi/Xe5OixqeLVw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCotEc5D_64lZ_04ToHlQQcVXeHMg</thumbnail>
@@ -26,6 +32,12 @@
 <title>TED BUNDY</title>
 <link>https://www.youtube.com/watch?v=_jttAd4iMUk</link>
 <thumbnail>https://i.ytimg.com/vi/_jttAd4iMUk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLALce4MeqLJE9qUzoU2DKW4hp7GQg</thumbnail>
+</item>
+
+<item>
+<title>PETER SUTCLIFFE:YORKSHIRE RIPPER</title>
+<link>https://www.youtube.com/watch?v=XiPGwB3cPh4</link>
+<thumbnail>https://i.ytimg.com/vi/XiPGwB3cPh4/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBfghXYHDigQ-bYPprZGopf1nZCrQ</thumbnail>
 </item>
 
 <item>
@@ -71,9 +83,27 @@
 </item>
 
 <item>
-<title></title>
-<link>**youtube link**</link>
-<thumbnail></thumbnail>
+<title>JOHN WAYNE GACY</title>
+<link>https://www.youtube.com/watch?v=_anX-EgKqKM</link>
+<thumbnail>https://i.ytimg.com/vi/_anX-EgKqKM/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDVgTtYwAAVtsbmIDGOR3AfS5e2xQ</thumbnail>
+</item>
+
+<item>
+<title>THE CANNIBAL OF ROTHENBERG</title>
+<link>https://www.youtube.com/watch?v=2GKli-TBdi0</link>
+<thumbnail>https://i.ytimg.com/vi/2GKli-TBdi0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCaggeyAT3vgjZBHwkES-LwPEvcJA</thumbnail>
+</item>
+
+<item>
+<title>LAKE AND NG</title>
+<link>https://www.youtube.com/watch?v=sdWYLu78j0Q</link>
+<thumbnail>https://i.ytimg.com/vi/sdWYLu78j0Q/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDsao93tfGOTi5Z-Q-hXIeHePIKBQ</thumbnail>
+</item>
+
+<item>
+<title>JOEL RIFKIN</title>
+<link>https://www.youtube.com/watch?v=xo8YJtKh9NY</link>
+<thumbnail>https://i.ytimg.com/vi/xo8YJtKh9NY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLD94Ki-eJiHBeheFunH8pQDOAmGtQ</thumbnail>
 </item>
 
 <item>
@@ -94,25 +124,11 @@
 <thumbnail></thumbnail>
 </item>
 
-<item>
-<title></title>
-<link>**youtube link**</link>
+<plugin>
+<title>SEARCH FOR MORE SERIAL KILLERS</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
 <thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>**youtube link**</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<title></title>
-<link>**youtube link**</link>
-<thumbnail></thumbnail>
-</item>
-
-
+</plugin>
 
 
 
