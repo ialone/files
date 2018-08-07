@@ -54,6 +54,12 @@
 <fanart></fanart>
 </dir>
 
+<item>
+<title>XXX TESTING (password protected)</title>
+<passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94eHglMjB0ZXN0</passreq>
+<thumbnail>http://i.imgur.com/ur8xpQ7.png</thumbnail>
+</item>
+
 <dir>
 <name>xxx test new 2</name>
 <passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94eHglMjB0ZXN0</passreq>
@@ -68,14 +74,6 @@
 <thumbnail>http://i.imgur.com/ur8xpQ7.png</thumbnail>
 <fanart></fanart>
 </dir>
-
-        <item>
-
-        <title>Password test</title>
-
-        <passreq>cGFzc3xodHRwczovL3Bhc3RlYmluLmNvbS9yYXcvVFJ3SFJ3U1Y=</passreq>
-
-        </item>
 
 <plugin>
 <title>Search Music</title>
