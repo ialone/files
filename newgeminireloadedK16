@@ -55,7 +55,8 @@
 </dir>
 
 <dir>
-<name>XXX TEST (password protected)</name>
+<name>XXX TEST 2 (password protected)</name>
+<link>ignoreme</link>
 <passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94eHglMjB0ZXN0</passreq>
 <thumbnail></thumbnail>
 <fanart></fanart>
