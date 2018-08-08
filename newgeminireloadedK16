@@ -95,7 +95,15 @@
 <fanart></fanart>
 </dir>
 
-        
+        <item>
+            <title>Pair With Sites</title>
+            <pairwith>pairlist</pairwith>
+        </item>
+
+        <item>
+            <title>Pair Openload</title>
+            <pairwith>openload</pairwith>
+        </item>        
         
         
         
