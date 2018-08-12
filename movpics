@@ -5,6 +5,13 @@
 </item>
 
 <item>
+<title>RIO LOBO (1970)</title>
+<link>plugin://plugin.video.youtube/play/?video_id=HH9CzTNGAeo</link>
+<info></info>
+<thumbnail>https://i.ytimg.com/vi/HH9CzTNGAeo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnpcgIiPFNKOhFAtlGY1sZmA1oOA</thumbnail>
+</item>
+
+<item>
 title></title>
 <link>**youtube link**</link>
 <thumbnail></thumbnail>
@@ -52,8 +59,4 @@ Channel
 <thumbnail></thumbnail>
 </plugin>
 
-<plugin>
-<title>Search Music</title>
-<link>plugin://plugin.video.youtube/kodion/search/list/</link>
-<thumbnail></thumbnail>
-</plugin>
+
