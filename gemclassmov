@@ -1,14 +1,20 @@
+     <dir>
+     <title>GEMINI MOVIE PICKS</title>
+     <link>https://raw.githubusercontent.com/ialone/files/master/movpics</link>
+     <thumbnail></thumbnail>
+     </dir>
+  
   <dir>
-    <title>Movies</title>
+    <title>GEMINI CLASSIC MOVIE COLLECTION 1929-1955</title>
     <link>https://raw.githubusercontent.com/ialone/files/master/classmovs</link>
-    <thumbnail></thumbnail>
+    <thumbnail>https://lh3.googleusercontent.com/a-/ACSszfHvM72zLkk5NqnxTa2XvK98-LTcC_2tyZ67bA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
   </dir>
   
-   <dir>
-   <title>Movies</title>
-   <link></link>
-   <thumbnail></thumbnail>
-   </dir>
+  <plugin>
+  <title>GEMINI CLASSIC MOVIE COLLECTION 2 1940s</title>
+  <link>plugin://plugin.video.youtube/playlist/PL305D41CC7F7B54B6/</link>
+  <thumbnail>https://lh3.googleusercontent.com/a-/ACSszfHvM72zLkk5NqnxTa2XvK98-LTcC_2tyZ67bA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+  </plugin>
    
      <dir>
      <title>Movies</title>
