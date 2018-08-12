@@ -1,4 +1,17 @@
 <dir>
+<name>GEMINI CLASSIC MOVIE COLLECTION 1929-1955</name>
+<link>https://raw.githubusercontent.com/ialone/files/master/classmovs</link>
+<thumbnail>https://lh3.googleusercontent.com/a-/ACSszfHvM72zLkk5NqnxTa2XvK98-LTcC_2tyZ67bA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+<fanart></fanart>
+</dir>
+
+<plugin>
+<title>GEMINI CLASSIC MOVIE COLLECTION 2 1940s</title>
+<link>plugin://plugin.video.youtube/playlist/PL305D41CC7F7B54B6/</link>
+<thumbnail>https://lh3.googleusercontent.com/a-/ACSszfHvM72zLkk5NqnxTa2XvK98-LTcC_2tyZ67bA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
+</plugin>
+
+<dir>
 <name>GEMINI BLOOPERS / UNSEEN COMEDY</name>
 <link>https://raw.githubusercontent.com/ialone/files/master/bloopers</link>
 <thumbnail></thumbnail>
@@ -87,13 +100,6 @@
             <info>Provides the Trailer context link for this movie when Metadata is DISABLED in your addon.</info>
             <thumbnail>https://i.ytimg.com/vi/HH9CzTNGAeo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnpcgIiPFNKOhFAtlGY1sZmA1oOA</thumbnail>
         </item>
-        
-<dir>
-<name>testing CM</name>
-<link>https://raw.githubusercontent.com/ialone/files/master/testing</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
 
         <item>
             <title>testing</title>
