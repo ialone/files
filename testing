@@ -1,43 +1,36 @@
 <item>
 <title>MEET JOHN DOE (1941)</title>
 <link>http://archive.org/download/meet_john_doe/meet_john_doe_512kb.mp4</link>
-<thumbnail>https://archive.org/services/img/BBOMeetJohnDoe1941</thumbnail>
+<thumbnail>https://i.ytimg.com/vi/FaF2Q8lFI-I/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDZCNedvwr3LHSdqvJ7YZUSKKE68w</thumbnail>
 <fanart></fanart>
-
 </item>
 
 <item>
    <title>UPTOWN NEW YORK (1932)</title>
    <link>http://archive.org/download/UptownNewYork/UptownNewYork_512kb.mp4</link>
-   <thumbnail></thumbnail>
+   <thumbnail>https://i.ytimg.com/vi/f86Xv5G2I-k/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBaJHRFbXenQmXJ-E7VMJ6-to0B3Q</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
    <title>DOLL FACE (1945)</title>
    <link>http://archive.org/download/dollface/dollface.mp4</link>
-   <thumbnail></thumbnail>
+   <thumbnail>https://i.ytimg.com/vi/w-oN9e3dwbg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAUBSNBo_Zz6C37sI3-TgSelJSgpA</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
    <title>SING SINNER SING (1933)</title>
    <link>http://archive.org/download/SingSinnerSing/SingSinnerSing_512kb.mp4</link>
-   <thumbnail></thumbnail>
+   <thumbnail>https://i.ytimg.com/vi/jg1_Lq0aTuI/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDn1gNZsLiL_6YqErVY9KOa4mho6Q</thumbnail>
    <fanart></fanart>
 </item>
 
 <item>
-<title>test</title>
-<link>mms://72.13.93.186/crimemovies</link>
+<title></title>
+<link></link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </item>
 
-#EXTM3U:
-#EXTINF: -1,Uptown New York (1932)
-http://archive.org/download/UptownNewYork/UptownNewYork_512kb.mp4
-#EXTINF: -1,Doll Face (1945)
-http://archive.org/download/dollface/dollface.mp4
-#EXTINF: -1,Sing, Sinner, Sing (1933)
-http://archive.org/download/SingSinnerSing/SingSinnerSing_512kb.mp4
+
