@@ -1,1 +1,17 @@
-
+    <dir>
+    <name>GEMINI CLASSIC COMEDY</name>
+    <link>https://raw.githubusercontent.com/ialone/files/master/classcom</link>
+    <thumbnail></thumbnail>
+    </dir>
+  
+     <dir>
+     <name>GEMINI CLASSIC TV</name>
+     <link>https://raw.githubusercontent.com/ialone/files/master/classTV</link>
+     thumbnail></thumbnail>
+     </dir>
+     
+     <plugin>
+<title>GEMINI CLASSIC GAME SHOWS</title>
+<link>plugin://plugin.video.youtube/channel/UCZak5g_yXOpY6b_ekkKE-sg/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
