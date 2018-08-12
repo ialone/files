@@ -1,3 +1,35 @@
+<item>
+<title>MEET JOHN DOE (1941)</title>
+<link>http://archive.org/download/meet_john_doe/meet_john_doe_512kb.mp4</link>
+<thumbnail>https://archive.org/services/img/BBOMeetJohnDoe1941</thumbnail>
+<fanart></fanart>
+
+</item>
+
+<item>
+   <title>UPTOWN NEW YORK (1932)</title>
+   <link>http://archive.org/download/UptownNewYork/UptownNewYork_512kb.mp4</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>DOLL FACE (1945)</title>
+   <link>http://archive.org/download/dollface/dollface.mp4</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+<item>
+   <title>SING SINNER SING (1933)</title>
+   <link>http://archive.org/download/SingSinnerSing/SingSinnerSing_512kb.mp4</link>
+   <thumbnail></thumbnail>
+   <fanart></fanart>
+</item>
+
+
+
+
 #EXTM3U:
 #EXTINF: -1,Uptown New York (1932)
 http://archive.org/download/UptownNewYork/UptownNewYork_512kb.mp4
