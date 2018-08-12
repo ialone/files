@@ -27,8 +27,12 @@
    <fanart></fanart>
 </item>
 
-
-
+<item>
+<title>test</title>
+<link>mms://72.13.93.186/crimemovies</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
 
 #EXTM3U:
 #EXTINF: -1,Uptown New York (1932)
