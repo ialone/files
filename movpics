@@ -1,3 +1,9 @@
+<plugin>
+<title>SEARCH FOR MORE MOVIE PICKS</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail>https://i.imgur.com/jR4vt3S.jpg</thumbnail>
+</plugin>
+
 <item>
 <title>THE SONG OF BERNADETTE</title>
 <link>https://www.youtube.com/watch?v=-6zAoq8tRfI</link>
