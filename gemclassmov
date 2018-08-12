@@ -15,9 +15,15 @@
   <link>plugin://plugin.video.youtube/playlist/PL305D41CC7F7B54B6/</link>
   <thumbnail>https://lh3.googleusercontent.com/a-/ACSszfHvM72zLkk5NqnxTa2XvK98-LTcC_2tyZ67bA=s176-c-k-c0x00ffffff-no-rj-mo</thumbnail>
   </plugin>
+  
+    <plugin>
+    <title>GEMINI CLASSIC WESTERNS 1950s</title>
+    <link>plugin://plugin.video.youtube/playlist/PL_1NwCbhVdtgg3C7jy67Gg8WuJqPAnMDW/</link>
+    <thumbnail>https://yt3.ggpht.com/a-/ACSszfHAmvuk4wUkMou7lDhtifruqhn3FPssdzo0pw=s48-mo-c-c0xffffffff-rj-k-no</thumbnail>
+    </plugin>
    
      <dir>
-     <title>Movies</title>
+     <title></title>
      <link></link>
      <thumbnail></thumbnail>
      </dir>
