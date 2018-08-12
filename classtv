@@ -35,8 +35,4 @@ Channel
 <thumbnail></thumbnail>
 </plugin>
 
-<plugin>
-<title>Search Music</title>
-<link>plugin://plugin.video.youtube/kodion/search/list/</link>
-<thumbnail></thumbnail>
-</plugin>
+
