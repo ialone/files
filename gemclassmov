@@ -21,13 +21,13 @@
     <link>plugin://plugin.video.youtube/playlist/PL_1NwCbhVdtgg3C7jy67Gg8WuJqPAnMDW/</link>
     <thumbnail>https://yt3.ggpht.com/a-/ACSszfHAmvuk4wUkMou7lDhtifruqhn3FPssdzo0pw=s48-mo-c-c0xffffffff-rj-k-no</thumbnail>
     </plugin>
+    
+    <plugin>
+    <title>GEMINI HAMMER HORROR/BRITISH HORROR</title>
+    <link>plugin://plugin.video.youtube/playlist/PL74839542356C41F1/</link>
+    <thumbnail></thumbnail>
+    </plugin>
    
-     <dir>
-     <title></title>
-     <link></link>
-     <thumbnail></thumbnail>
-     </dir>
-  
     <dir>
     <title>Movies</title>
     <link></link>
