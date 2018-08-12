@@ -1,1 +1,89 @@
+<plugin>
+<title>CITIZEN SMITH</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXkF-lzAR-ESDOTPq8BACTW/</link>
+<thumbnail>https://i.ytimg.com/vi/jNDysAzhAaw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCR0q3qh1C5QET5xgexZUZFDYhZsQ</thumbnail>
+</plugin>
 
+<plugin>
+<title>GAME ON</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXR0FFd9gI2Xd5nqe0Ci2-A/</link>
+<thumbnail>https://i.ytimg.com/vi/bmKgN3HZEb0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBrJ8hqrF7QQO8BvK5o990W6Uc6ig</thumbnail>
+</plugin>
+
+<plugin>
+<title>WATCHING</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWMT70rck4g02Aiwg5DmAYf/</link>
+<thumbnail>https://i.ytimg.com/vi/ZAG49ICuKV8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLArZh0WKBHR0uOHsMKtpT7pNAHpYA</thumbnail>
+</plugin>
+
+<plugin>
+<title>ONE FOOT IN THE GRAVE</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWEedM3v4PTv1AVQXP_4czT/</link>
+<thumbnail>https://i.ytimg.com/vi/GAxQ7-Ngjnw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCYQkwUCg8YgcdAoKw3JWn2NiE_Pg</thumbnail>
+</plugin>
+
+<plugin>
+<title>HOME JAMES</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXKPiArIMzBu8fDzU_nNIt3/</link>
+<thumbnail>https://i.ytimg.com/vi/DctILmWoc3I/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCzYfRERTJVELb8NvpiX-CmQBrJAQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>GIMME GIMME GIMME</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXQk7t2b4o85EV9V4U5ZbWe/</link>
+<thumbnail>https://i.ytimg.com/vi/ED1Zm6S6M_w/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB4Xgu29OAqArZDhLSCfb5NLrZjjQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>MEN BEHAVING BADLY</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWFfHbczZP1pGcg_Y6j-nsk/</link>
+<thumbnail>https://i.ytimg.com/vi/8Bxl7Rf781g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDQlzH0ywRaRW-GG-79tsOgXgIKVQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>MAN ABOUT THE HOUSE</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWUin8jo3zU_o1xdos3v2zb/</link>
+<thumbnail>https://i.ytimg.com/vi/jSep35Prcf0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDJDXPtGwp3gmSU74RybPqWFqrC7Q</thumbnail>
+</plugin>
+
+<plugin>
+<title>IN SICKNESS AND IN HEALTH</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZUhAifiZE3VJisu_sdKkzMk/</link>
+<thumbnail>https://i.ytimg.com/vi/I3hwBLT2h4g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA0qYWK4eDHt3QmFwGrIYrev8R2jw</thumbnail>
+</plugin>
+
+<plugin>
+<title>BLESS THIS HOUSE</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZW91wrxC9xAZHgBgpDMODS2/</link>
+<thumbnail>https://i.ytimg.com/vi/mV_mjkZxwmk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCRSzM2-QowKEsvJZ3JAX0WBpSJEw</thumbnail>
+</plugin>
+
+<plugin>
+<title>ONLY WHEN I LAUGH</title>
+<link>plugin://plugin.video.youtube/playlist/PLn9QhPooa86AC5I6sUIZP35fzpnOO41Bk/</link>
+<thumbnail>https://i.ytimg.com/vi/QxeWMe66bpo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCJGwUZScqY1WBOP1otmiQLHu15DA</thumbnail>
+</plugin>
+
+Single Link
+
+<item>
+<title></title>
+<link>**youtube link**</link>
+<thumbnail></thumbnail>
+</item>
+
+Playlist
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
