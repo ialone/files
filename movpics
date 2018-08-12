@@ -1,0 +1,59 @@
+<item>
+<title>THE SONG OF BERNADETTE</title>
+<link>https://www.youtube.com/watch?v=-6zAoq8tRfI</link>
+<thumbnail>https://i.ytimg.com/vi/pC9sHhKnzMQ/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBodSz36usp305a8zdk3kQqWsr3VA</thumbnail>
+</item>
+
+<item>
+title></title>
+<link>**youtube link**</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>**youtube link**</link>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title></title>
+<link>**youtube link**</link>
+<thumbnail></thumbnail>
+</item>
+
+
+
+
+
+
+
+Single Link
+
+<item>
+<title></title>
+<link>**youtube link**</link>
+<thumbnail></thumbnail>
+</item>
+
+Playlist
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+Channel
+
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/channel/**CHANNEL NUMBER**/playlists/</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<title>Search Music</title>
+<link>plugin://plugin.video.youtube/kodion/search/list/</link>
+<thumbnail></thumbnail>
+</plugin>
