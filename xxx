@@ -9,6 +9,16 @@
 </item>
 
 <dir>
+<name>XXX ON DEMAND 1 test 2</name>
+<passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94MQ==</passreq>
+<link></link>
+<animated_thumbnail></animated_thumbnail>
+<thumbnail>https://i.imgur.com/WTr92sK.png</thumbnail>
+<animated_fanart></animated_fanart>
+<fanart>https://i.imgur.com/lPrvehQ.jpg</fanart>
+</dir>
+
+<dir>
 <name>XXX ON DEMAND 2</name>
 <link>https://raw.githubusercontent.com/ialone/files/master/x1</link>
 <animated_thumbnail></animated_thumbnail>
