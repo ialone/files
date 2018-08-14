@@ -73,11 +73,11 @@
 <fanart></fanart>
 </dir>
 
-<dir>
-<title>XXX (password protected) test</title>
+<item>
+<title>XXX (password protected) test 2</title>
 <passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94eHg=</passreq>
 <thumbnail>https://i.imgur.com/WTr92sK.png</thumbnail>
-</dir>
+</item>
 
 <plugin>
 <title>Search Music</title>
