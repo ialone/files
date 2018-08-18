@@ -5,9 +5,27 @@
 </plugin>
 
 <plugin>
+<title>AUF WEIDERSHEN PET</title>
+<link>plugin://plugin.video.youtube/playlist/PL6U7WPQkRjYGAicbDfkwcUXbmEvGH82t0/</link>
+<thumbnail>https://i.ytimg.com/vi/E_cWojgfhuY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLApkgmm_03jiLUjpMdxDomIYE9OzQ</thumbnail>
+</plugin>
+
+<plugin>
 <title>BIG DEAL</title>
 <link>plugin://plugin.video.youtube/playlist/PLn9QhPooa86AaY8mzKQ_Sb91Bb9nwGXeT/</link>
 <thumbnail>https://i.ytimg.com/vi/jMbtRUPUw0A/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBmJsSYLz8hgrhuCanwET3HJDX32w</thumbnail>
+</plugin>
+
+<plugin>
+<title>MINDER</title>
+<link>plugin://plugin.video.youtube/playlist/PLtelhF5_5QXKlQz789etHvCoCwOnn6pTG/</link>
+<thumbnail>https://i.ytimg.com/vi/hPzJBFpQX8o/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBu7YqzuK_a9HvqgKzFu1uQ6xiJoQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>HARRY</title>
+<link>plugin://plugin.video.youtube/playlist/PLmRu2axUu2LFX3UsHHISde6bDpnWh7yHm/</link>
+<thumbnail>https://i.ytimg.com/vi/YCyUIjlecro/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBh-77smu7K1ebKh75HvTv01zDYew</thumbnail>
 </plugin>
 
 
