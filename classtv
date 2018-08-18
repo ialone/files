@@ -5,15 +5,63 @@
 </plugin>
 
 <plugin>
+<title>KOLCHAK THE NIGHT STALKER</title>
+<link>plugin://plugin.video.youtube/playlist/PLAPGcD5LGrp7PGyKooDu0_ru4zgBUuT9b/</link>
+<thumbnail>https://i.ytimg.com/vi/3raQnXP2s3s/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCcP5d-qWU5Yr-MY-I4E8B7CNOQMA</thumbnail>
+</plugin>
+
+<plugin>
+<title>THE PRISONER</title>
+<link>plugin://plugin.video.youtube/playlist/PL98wUOfzqrqcDqKoWRL71AmgVCHDM0SUW/</link>
+<thumbnail>https://i.ytimg.com/vi/RyYOgXLenI8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAH1g1VZ-OqqYipvQx8BXr4Y7RZpQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>SLEDGE HAMMER</title>
+<link>plugin://plugin.video.youtube/playlist/PLAPGcD5LGrp4g9pNQVn-UGl7IuZ9cgiD-/</link>
+<thumbnail>https://i.ytimg.com/vi/VJ9h3nxL1pY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAzKNG7U7pq7X5FKs5l_-atSyYTFA</thumbnail>
+</plugin>
+
+<plugin>
 <title>AUF WEIDERSHEN PET</title>
 <link>plugin://plugin.video.youtube/playlist/PL6U7WPQkRjYGAicbDfkwcUXbmEvGH82t0/</link>
 <thumbnail>https://i.ytimg.com/vi/E_cWojgfhuY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLApkgmm_03jiLUjpMdxDomIYE9OzQ</thumbnail>
 </plugin>
 
 <plugin>
+<title>COVER UP</title>
+<link>plugin://plugin.video.youtube/playlist/PLga1lxeocY-jbW60Z9YJqZOgbFjkrMjw1/</link>
+<thumbnail>https://i.ytimg.com/vi/dtj_74xL42g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAigR3BRFBbLQk8_FbWh-NmeKjcOw</thumbnail>
+</plugin>
+
+<plugin>
+<title>ALL CREATURES GREAT AND SMALL</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWPuVtd1wbDEY7MO1euPK4G/</link>
+<thumbnail>https://i.ytimg.com/vi/cceX7riBHKA/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBw61YlkWArXnXjev_6WEvNqvQafQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>GEMINI MAN</title>
+<link>plugin://plugin.video.youtube/playlist/PLolykv52ALExwuQe0oi2vMoc9eeiqrApt/</link>
+<thumbnail>https://i.ytimg.com/vi/LfmCT7_a4zY/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLAw5yJg18hBV7xR9OAT39j_2AwpgQ</thumbnail>
+</plugin>
+
+<plugin>
 <title>BIG DEAL</title>
 <link>plugin://plugin.video.youtube/playlist/PLn9QhPooa86AaY8mzKQ_Sb91Bb9nwGXeT/</link>
 <thumbnail>https://i.ytimg.com/vi/jMbtRUPUw0A/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBmJsSYLz8hgrhuCanwET3HJDX32w</thumbnail>
+</plugin>
+
+<plugin>
+<title>THE GREATST AMERICAN HERO SEASON 1</title>
+<link>plugin://plugin.video.youtube/playlist/PLCtzV5hqanQgDj-SHtmf3kVr5AuCaqM7Q/</link>
+<thumbnail>https://i.ytimg.com/vi/88xRkmBN6oU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBYqYVbANe1rM040vnAu2WhLwscCg</thumbnail>
+</plugin>
+
+<plugin>
+<title>THE GREATST AMERICAN HERO SEASON 2 / 3</title>
+<link>plugin://plugin.video.youtube/playlist/PLCtzV5hqanQgbCyVt3N22ThzZijUp71Dr/</link>
+<thumbnail>https://i.ytimg.com/vi/88xRkmBN6oU/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBYqYVbANe1rM040vnAu2WhLwscCg</thumbnail>
 </plugin>
 
 <plugin>
@@ -28,6 +76,11 @@
 <thumbnail>https://i.ytimg.com/vi/YCyUIjlecro/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBh-77smu7K1ebKh75HvTv01zDYew</thumbnail>
 </plugin>
 
+<plugin>
+<title>PRISONER CELL BLOCK H</title>
+<link>plugin://plugin.video.youtube/playlist/PLJBZl6mF2M299MhIRi-IiHWEc4ughOray/</link>
+<thumbnail>https://i.ytimg.com/vi/qvcG22JF3mE/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDjMNeBCr2_C1CreDRn_hIN3gK72A</thumbnail>
+</plugin>
 
 Single Link
 
