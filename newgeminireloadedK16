@@ -114,42 +114,15 @@ https://raw.githubusercontent.com/ialone/files/master/xxx
   <lastfm>artist/Michael+Jackson/albums</lastfm>
 </dir>
         
-       <item>
-            <title>RIO LOBO (1970)</title>
-            <link>plugin://plugin.video.youtube/play/?video_id=HH9CzTNGAeo</link>
-            <info>Provides the Trailer context link for this movie when Metadata is DISABLED in your addon.</info>
-            <thumbnail>https://i.ytimg.com/vi/HH9CzTNGAeo/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDnpcgIiPFNKOhFAtlGY1sZmA1oOA</thumbnail>
-        </item>
-
-        <item>
-            <title>testing</title>
-            <pairwith>pairlist</pairwith>
-        </item>
-
-        <item>
-            <title>testing 2</title>
-            <pairwith>openload</pairwith>
-        </item>        
-        
- <dir>
-<name>testhost updated</name>
-<link>https://stigmatic-responses.000webhostapp.com/testhost.xml</link>
+<dir>
+<name>testhost NEW</name>
+<link>https://bit.ly/2wvaAWe</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
 </dir>   
 
-<dir>
-<name>testhost updated2</name>
-<link>https://bit.ly/2wprXYb</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
 
 
-<dir>
-<name>testhost updated5</name>
-<link>https://stigmatic-responses.000webhostapp.com/reloadedk17/dir.xml</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>
+
+
         
