@@ -1,13 +1,3 @@
-        <item>
-            <title>Password Protected Remote File 2</title>
-            <passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94MQ==</passreq>
-        </item>    
-    
-    <dir>
-    <title>ireland test</title>
-    <tvmaze>country/Ireland/1</tvmaze>
-    </dir>
-
 <dir>
 <name>GEMINI TV COLECTION</name>
 <link>https://raw.githubusercontent.com/ialone/files/master/tvcoll</link>
@@ -76,15 +66,7 @@
 <link>https://raw.githubusercontent.com/ialone/files/master/nostalgia%20cork</link>
 <thumbnail>https://i.ytimg.com/vi/DHV9QrHL9u8/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCEJbdnxhcEmMfwpb1BMTFS8hzY1w</thumbnail>
 <fanart></fanart>
-</dir>
-
-        <item>
-
-            <title>Password Protected Remote File 2</title>
-
-            <passreq>cGFzc3xodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaWFsb25lL2ZpbGVzL21hc3Rlci94eHg=</passreq>
-
-        </item>    
+</dir>   
 
 <item>
 <title>XXX (over 18s only)</title>
@@ -99,27 +81,9 @@ https://raw.githubusercontent.com/ialone/files/master/xxx
 <thumbnail></thumbnail>
 </plugin>
 
-<dir>
-  <title>Artist Chart</title>
-  <lastfm>chart/artists</lastfm>
-</dir>
 
-<dir>
-  <title>Iced Earth test</title>
-  <lastfm>artist/Michael+Jackson/Thriller/tracks</lastfm>
-</dir>
-
-<dir>
-  <title>Blind Guardian Albums</title>
-  <lastfm>artist/Michael+Jackson/albums</lastfm>
-</dir>
         
-<dir>
-<name>testhost NEW</name>
-<link>https://bit.ly/2wvaAWe</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-</dir>   
+
 
 
 
