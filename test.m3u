@@ -1,38 +1,3 @@
-#EXTINF:-1, ANIMAL PLANET   recorded    (these channels currently down)
-http://80.80.160.168/live/1/500000/playlist.m3u8
-
-<plugin>
-<name>BIEN SPORTS 12 HD</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.37.255.204:9977/live/Rivera/Rivera/24709.ts<link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</plugin>
-
-<item>
-<name>BIEN SPORTS 12 HD</name>
-<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://54.37.255.204:9977/live/Rivera/Rivera/24709.ts<link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</item>
-
-<item>
-<name>test 2</name>
-<link>http://178.132.6.74:8282/live/ramo/ramo1/1549.ts<link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</item>
-
-<item>
-<name>test 3</name>
-<link>http://80.80.160.168/live/1/500000/playlist.m3u8<link>
-<thumbnail></thumbnail>
-<fanart></fanart>
-<summary></summary>
-</item>
-
 #EXTM3U:
 #EXTINF: -1,Uptown New York (1932)
 http://archive.org/download/UptownNewYork/UptownNewYork_512kb.mp4
