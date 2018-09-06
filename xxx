@@ -9,8 +9,9 @@
 
 <dir>
 <name>XXX ON DEMAND 2</name>
-<link>https://raw.githubusercontent.com/ialone/files/master/x1</link>
+<link>https://raw.githubusercontent.com/ialone/files/master/x2</link>
 <animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
 <thumbnail></thumbnail>
 <animated_fanart></animated_fanart>
 <fanart></fanart>
@@ -18,8 +19,9 @@
 
 <dir>
 <name>XXX ON DEMAND 3</name>
-<link></link>
+<link>https://raw.githubusercontent.com/ialone/files/master/x3</link>
 <animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
 <thumbnail></thumbnail>
 <animated_fanart></animated_fanart>
 <fanart></fanart>
@@ -27,8 +29,9 @@
 
 <dir>
 <name>XXX ON DEMAND 4</name>
-<link></link>
+<link>https://raw.githubusercontent.com/ialone/files/master/x4</link>
 <animated_thumbnail></animated_thumbnail>
+<animated_fanart></animated_fanart>
 <thumbnail></thumbnail>
 <animated_fanart></animated_fanart>
 <fanart></fanart>
