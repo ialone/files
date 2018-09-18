@@ -93,7 +93,12 @@ https://raw.githubusercontent.com/ialone/files/master/xxx
 <link></link>
 </dir>
 
-
+<plugin>
+    <title>M3U Name</title>
+    <link>plugin://plugin.video.live.streamspro/?mode=1&url=http://freedailyiptv.com/links/19-09-2018/SP6_freedailyiptv.com.m3u</link>
+	<thumbnail></thumbnail>
+    <fanart></fanart>
+</plugin>
 
 
 
