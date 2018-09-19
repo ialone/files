@@ -154,4 +154,9 @@
 <thumbnail></thumbnail>
 </item>
 
-
+<plugin>
+<title>user Test</title>
+<link>plugin://plugin.video.youtube/user/jnnelson79/playlists/</link>
+<thumbnail>https://i.ytimg.com/vi/HwpESFF7BTg/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMcfCIOy_36z7wu3g-vaUs4SMCgg</thumbnail>
+</plugin>
+plugin://plugin.video.youtube/user/jnnelson79/playlists/
