@@ -75,12 +75,11 @@
 <fanart></fanart>
 </dir>   
 
-<item>
-<title>XXX (over 18s only)</title>
-https://raw.githubusercontent.com/ialone/files/master/xxx
+<dir>
+<name>XXX (over 18s only) twest</name>
 <link>https://raw.githubusercontent.com/ialone/files/master/xxx</link>
 <thumbnail>https://i.imgur.com/WTr92sK.png</thumbnail>
-</item>
+</dir>
 
 <plugin>
 <title>Search Music</title>
