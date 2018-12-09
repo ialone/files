@@ -15,11 +15,22 @@
     <link>plugin://plugin.video.youtube/channel/UCZak5g_yXOpY6b_ekkKE-sg/playlists/</link>
     <thumbnail></thumbnail>
     </plugin>
-  
+    
      <dir>
-     <name></name>
-     <link></link>
+     <name>GEMINI BLOOPERS</name>
+     <link>https://raw.githu</link>
      thumbnail></thumbnail>
      </dir>
      
+     <dir>
+     <name></name>
+     <link></link>
+     <thumbnail></thumbnail>
+     </dir>
+     
+     <dir>
+     <name></name>
+     <link></link>
+     <thumbnail></thumbnail>
+     </dir>
 
