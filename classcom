@@ -190,6 +190,12 @@
 <thumbnail>https://i.ytimg.com/vi/tXXWNgSurNo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDY7HPOGexlpaKS6hSeVgwXvdlBpw</thumbnail>
 </plugin>
 
+<item>
+<title>BLESS THIS HOUSE THE MOVIE</title>
+<link>https://www.youtube.com/watch?v=WBp_phIrjPU</link>
+<thumbnail>https://i.ytimg.com/vi/WBp_phIrjPU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBI76gQdjgXdqLDGhgTZxZwleOT2w</thumbnail>
+</item>
+
 <plugin>
 <title>SOME MOTHERS DO AVE EM</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZVzP_Gbb4_KkLk0WIn3SzR1/</link>
@@ -284,6 +290,24 @@
 <title>THE THIN BLUE LINE</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZVDQGC2kwEWTOBrEVN6aRME/</link>
 <thumbnail>https://i.ytimg.com/vi/MHET-0KjXaI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJ1eGX-tHPE7YWmy72RgO7pXXC1w</thumbnail>
+</plugin>
+
+<plugin>
+<title>WHAT EVER HAPPENED TO THE LIKELY LADS</title>
+<link>plugin://plugin.video.youtube/user/GeorgieAnnie89/</link>
+<thumbnail>https://i.ytimg.com/vi/NsmHRHjOvug/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBfjwhQzowrASMJth97ZFLOQ5EFUw</thumbnail>
+</plugin>
+
+<item>
+<title>WHAT EVER HAPPENED TO THE LIKELY LADS XMAS SPECIAL</title>
+<link>https://www.youtube.com/watch?v=fJ9GYz9udLU</link>
+<thumbnail>https://i.ytimg.com/vi/fJ9GYz9udLU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB2q80R3enXT2Jgk7DoyYcgDmWgQw</thumbnail>
+</item>
+
+<plugin>
+<title>MR BEAN</title>
+<link>plugin://plugin.video.youtube/playlist/PLe9kjFJ6bWHhZyRXzwK3XPBqXPSuJSyUp/</link>
+<thumbnail>https://i.ytimg.com/vi/wrRSnHXgt8Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIQ2qfxKeiEIk3_bFGfyZ7xMmg8A</thumbnail>
 </plugin>
 
 Single Link
