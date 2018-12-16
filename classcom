@@ -131,12 +131,6 @@
 </plugin>
 
 <plugin>
-<title>IN SICKNESS AND IN HEALTH</title>
-<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZUhAifiZE3VJisu_sdKkzMk/</link>
-<thumbnail>https://i.ytimg.com/vi/I3hwBLT2h4g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA0qYWK4eDHt3QmFwGrIYrev8R2jw</thumbnail>
-</plugin>
-
-<plugin>
 <title>BLESS THIS HOUSE</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZW91wrxC9xAZHgBgpDMODS2/</link>
 <thumbnail>https://i.ytimg.com/vi/mV_mjkZxwmk/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCRSzM2-QowKEsvJZ3JAX0WBpSJEw</thumbnail>
@@ -160,6 +154,12 @@
 <thumbnail>https://i.ytimg.com/vi/tqF7YePn9Og/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAzxKfU_5OXhzWceX-kZXni90MIVg</thumbnail>
 </plugin>
 
+<plugin>
+<title>IN SICKNESS AND IN HEALTH</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZUhAifiZE3VJisu_sdKkzMk/</link>
+<thumbnail>https://i.ytimg.com/vi/I3hwBLT2h4g/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLA0qYWK4eDHt3QmFwGrIYrev8R2jw</thumbnail>
+</plugin>
+
 <item>
 <title>THE ALF CARNET SAGA</title>
 <link>https://www.youtube.com/watch?v=o8y4igrUb8M</link>
@@ -177,6 +177,12 @@
 <link>plugin://plugin.video.youtube/playlist/PLZ7P_xv7lyu1QvkUYv-Xq-Ay1bCoaMyPm/</link>
 <thumbnail>https://i.ytimg.com/vi/ikzzxtpyTjA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAh9oOnQo6Rbc83BSVwq4X_IkAWNg</thumbnail>
 </plugin>
+
+<item>
+<title>PORRIDGE THE MOVIE</title>
+<link>https://www.youtube.com/watch?v=dtuvfEgjPY4</link>
+<thumbnail>https://i.ytimg.com/vi/dtuvfEgjPY4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLB4PP9e0iLi9vDSxYHAZW102sD36Q</thumbnail>
+</item>
 
 <plugin>
 <title>BLESS THIS HOUSE</title>
@@ -230,6 +236,12 @@
 <title>DINNER LADIES</title>
 <link>plugin://plugin.video.youtube/playlist//</link>
 <thumbnail>https://i.ytimg.com/vi/W_2tktLOV3I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7Jc0oUd8QntF7_XCfAZS7y6tWzQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>THE GOOD LIFE</title>
+<link>plugin://plugin.video.youtube/user/OuijaBird/</link>
+<thumbnail>https://i.ytimg.com/vi/aAh2xAhEbuQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTdniWB2xqt-sRHpEFXJb5VRIYKA</thumbnail>
 </plugin>
 
 <plugin>
