@@ -17,9 +17,27 @@
 </plugin>
 
 <plugin>
+<title>SYKES</title>
+<link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1U5P3zkCjexqXqfykJqLiRn/</link>
+<thumbnail>https://i.ytimg.com/vi/wSpDH6QYzl4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD53QuUn1zTs8QMnHBwDGOAbpnKyw</thumbnail>
+</plugin>
+
+<plugin>
+<title>CLASSIC COMEDY COLLECTION</title>
+<link>plugin://plugin.video.youtube/playlist/PLLi0vcyVTzgFsO0yCNxpw0bCpIPOl0IKm/</link>
+<thumbnail>https://i.ytimg.com/vi/vFDSWuffBcA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMEzOnzf-cCC4TlWSZuW6Gt9yMug</thumbnail>
+</plugin>
+
+<plugin>
 <title>ONE FOOT IN THE GRAVE</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWEedM3v4PTv1AVQXP_4czT/</link>
 <thumbnail>https://i.ytimg.com/vi/GAxQ7-Ngjnw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCYQkwUCg8YgcdAoKw3JWn2NiE_Pg</thumbnail>
+</plugin>
+
+<plugin>
+<title>UP POMPEII</title>
+<link>plugin://plugin.video.youtube/playlist/PLAPGcD5LGrp4FJVyyhr_t9bYB6D1E_rEO/</link>
+<thumbnail>https://i.ytimg.com/vi/SKphHvvvNSs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASlCeRHvEP2iD45Hw4Yg59P8kpSw</thumbnail>
 </plugin>
 
 <plugin>
@@ -60,10 +78,69 @@
 
 <plugin>
 <title>ONLY WHEN I LAUGH</title>
-<link>plugin://plugin.video.youtube/playlist/PLn9QhPooa86AC5I6sUIZP35fzpnOO41Bk/</link>
-<thumbnail>https://i.ytimg.com/vi/QxeWMe66bpo/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCJGwUZScqY1WBOP1otmiQLHu15DA</thumbnail>
+<link>plugin://plugin.video.youtube/playlist/PLhlVXiZXtfqgAaaSn8ecX6iX9nhVUJ5C3/</link>
+<thumbnail>https://i.ytimg.com/vi/-24ZMsVmHpU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbF7hyK77QvCuI1wV2BAk460d5BA</thumbnail>
 </plugin>
 
+<plugin>
+<title>TILL DEATH US DO PART</title>
+<link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1WODI23rnmphGWCrvMYNJMr/</link>
+<thumbnail>https://i.ytimg.com/vi/tqF7YePn9Og/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAzxKfU_5OXhzWceX-kZXni90MIVg</thumbnail>
+</plugin>
+
+<plugin>
+<title>KILLINASKULLY</title>
+<link>plugin://plugin.video.youtube/playlist/PLhlVXiZXtfqi6ypFVgg6wMKwsEH8NWvtO/</link>
+<thumbnail>https://i.ytimg.com/vi/mJ64XjH0EYQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCT2hF4pPoLUqw9xy8MW-X5lTBEzw</thumbnail>
+</plugin>
+
+<plugin>
+<title>GOING STRAIGHT</title>
+<link>plugin://plugin.video.youtube/playlist/PLZ7P_xv7lyu1QvkUYv-Xq-Ay1bCoaMyPm/</link>
+<thumbnail>https://i.ytimg.com/vi/ikzzxtpyTjA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAh9oOnQo6Rbc83BSVwq4X_IkAWNg</thumbnail>
+</plugin>
+
+<plugin>
+<title>BLESS THIS HOUSE</title>
+<link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1U1_f1NSwCr_LPNKRti7-75/</link>
+<thumbnail>https://i.ytimg.com/vi/tXXWNgSurNo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDY7HPOGexlpaKS6hSeVgwXvdlBpw</thumbnail>
+</plugin>
+
+<plugin>
+<title>GEORGE AND MILDRED</title>
+<link>plugin://plugin.video.youtube/playlist/PLT2ek4omyo0cbVdGLaP_2ixzaK4Rinueg/</link>
+<thumbnail>https://i.ytimg.com/vi/TKz_dwlkg8A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBO-wfrQCaFsi9guxoNWdtlHClisA</thumbnail>
+</plugin>
+
+<plugin>
+<title>GEORGE AND MILDRED 2</title>
+<link>plugin://plugin.video.youtube/user/MargoLeadbetter1/playlists/</link>
+<thumbnail>https://i.ytimg.com/vi/-ON_sEGUQv4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvsX0fzkhsqZu1QGemfwiHDRgTKw</thumbnail>
+</plugin>
+
+<plugin>
+<title>GEORGE AND MILDRED 2</title>
+<link>plugin://plugin.video.youtube/playlist//</link>
+<thumbnail>https://i.ytimg.com/vi/TKz_dwlkg8A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBO-wfrQCaFsi9guxoNWdtlHClisA</thumbnail>
+</plugin>
+
+<plugin>
+<title>DINNER LADIES</title>
+<link>plugin://plugin.video.youtube/playlist//</link>
+<thumbnail>https://i.ytimg.com/vi/W_2tktLOV3I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7Jc0oUd8QntF7_XCfAZS7y6tWzQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>UP THE ELEPHANT AND ROUND THE CASTLE</title>
+<link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1W3ZU_8IisW2hJdytHMvY9i/</link>
+<thumbnail>https://i.ytimg.com/vi/4Oo__OrhR1Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6RL-wYlJV0FJZfSkh53I2YECX0w</thumbnail>
+</plugin>
+
+<plugin>
+<title>ON THE BUSES </title>
+<link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1VcLUR-TbtI7CG-2M_CXO90/</link>
+<thumbnail>https://i.ytimg.com/vi/PGxFXROIZmU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCKgvAHETZbKxAncCDkZFsgHd9pTQ</thumbnail>
+</plugin>
 Single Link
 
 <item>
