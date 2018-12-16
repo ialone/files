@@ -11,9 +11,39 @@
 </plugin>
 
 <plugin>
+<title>NEVER THE TWAIN</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9Yli37VTvTc5rYJwCakNDI4Q9/</link>
+<thumbnail>https://i.ytimg.com/vi/rFQhxvebFgc/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAOJZkRcepbTo_CSRiwLTRT1eTP7Q</thumbnail>
+</plugin>
+
+<plugin>
+<title>LOVE THY NEIGHBOUR</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YlhKEZDBTCwI71dZo8-zA2nD/</link>
+<thumbnail>https://i.ytimg.com/vi/mEqEmIvj5GU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbwN0D4OEulH7g7g6Qe5iLe_PQhA</thumbnail>
+</plugin>
+
+<plugin>
+<title>OPEN ALL HOURS</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9Ylg6kwwbHH_IJZvVAxNmvzto/</link>
+<thumbnail>https://i.ytimg.com/vi/Nni3oz7Q_aA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbe6nB59EGbMcrMQ9g3pBpARR2xQ</thumbnail>
+</plugin>
+
+<plugin>
 <title>WATCHING</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWMT70rck4g02Aiwg5DmAYf/</link>
 <thumbnail>https://i.ytimg.com/vi/ZAG49ICuKV8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLArZh0WKBHR0uOHsMKtpT7pNAHpYA</thumbnail>
+</plugin>
+
+<plugin>
+<title>AFTER HENRY</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZW-Y7gxZSB7dnOpcMfSFOPN/</link>
+<thumbnail>https://i.ytimg.com/vi/1Ung7D3FvGk/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcED2GDyJfFl79utJ32uZY0fzBZQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>JUST GOOD FRIENDS</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YliqnACJvkEnTaxaageOO69c/</link>
+<thumbnail>https://i.ytimg.com/vi/-RhMg27euVg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAcXCATVpyFTSCpIjvYYq80vF1rcw</thumbnail>
 </plugin>
 
 <plugin>
@@ -35,6 +65,36 @@
 </plugin>
 
 <plugin>
+<title>BUTTERFLIES</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZVZPnT5YTa4Q1bJ-pYyCeGf/</link>
+<thumbnail>https://i.ytimg.com/vi/47i65IMzeVA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDVURIUzwdw5G1N2cjvQieSXZJAsA</thumbnail>
+</plugin>
+
+<plugin>
+<title>STEPTOE AND SON</title>
+<link>plugin://plugin.video.youtube/playlist/PLZfCg1PYKx-Ph_-ZEC0N_6lvqyMKu19Yz/</link>
+<thumbnail>https://i.ytimg.com/vi/A6dqjpO_z0g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBmMGm1ucvCo7fRORaoUwlo0X6Edw</thumbnail>
+</plugin>
+
+<plugin>
+<title>STEPTOE AND SON 2</title>
+<link>plugin://plugin.video.youtube/playlist/PLRRxgaLFf4o4JkIdfg4khr7NQu-yIhdno/</link>
+<thumbnail>https://i.ytimg.com/vi/A6dqjpO_z0g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBmMGm1ucvCo7fRORaoUwlo0X6Edw</thumbnail>
+</plugin>
+
+<item>
+<title>STEPTOE AND SON THE MOVIE</title>
+<link>https://www.youtube.com/watch?v=OR-ygAbGJEM</link>
+<thumbnail>https://i.ytimg.com/vi/OR-ygAbGJEM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzJl3Q2oiYBid3qVMR79ls4AgtyQ</thumbnail>
+</item>
+
+<item>
+<title>STEPTOE AND SON RIDE AGAIN</title>
+<link>https://www.youtube.com/watch?v=LZThRzEhVPc</link>
+<thumbnail>https://i.ytimg.com/vi/LZThRzEhVPc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtvva3ycdS6_hlASXd9KorYRGOFA</thumbnail>
+</item>
+
+<plugin>
 <title>UP POMPEII</title>
 <link>plugin://plugin.video.youtube/playlist/PLAPGcD5LGrp4FJVyyhr_t9bYB6D1E_rEO/</link>
 <thumbnail>https://i.ytimg.com/vi/SKphHvvvNSs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLASlCeRHvEP2iD45Hw4Yg59P8kpSw</thumbnail>
@@ -50,6 +110,12 @@
 <title>GIMME GIMME GIMME</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXQk7t2b4o85EV9V4U5ZbWe/</link>
 <thumbnail>https://i.ytimg.com/vi/ED1Zm6S6M_w/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLB4Xgu29OAqArZDhLSCfb5NLrZjjQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>SORRY</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YlhFRLIDvCPNuWKOszTL2Y3-/</link>
+<thumbnail>https://i.ytimg.com/vi/LLraoL-AlfM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDyYf-lwCTy2LChoSfKxXVYRK6VJA</thumbnail>
 </plugin>
 
 <plugin>
@@ -94,6 +160,12 @@
 <thumbnail>https://i.ytimg.com/vi/tqF7YePn9Og/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAzxKfU_5OXhzWceX-kZXni90MIVg</thumbnail>
 </plugin>
 
+<item>
+<title>THE ALF CARNET SAGA</title>
+<link>https://www.youtube.com/watch?v=o8y4igrUb8M</link>
+<thumbnail>https://i.ytimg.com/vi/o8y4igrUb8M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcN5i0uGqG5p6_LpUEEs8NrGG8FA</thumbnail>
+</item>
+
 <plugin>
 <title>KILLINASKULLY</title>
 <link>plugin://plugin.video.youtube/playlist/PLhlVXiZXtfqi6ypFVgg6wMKwsEH8NWvtO/</link>
@@ -113,6 +185,18 @@
 </plugin>
 
 <plugin>
+<title>SOME MOTHERS DO AVE EM</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZVzP_Gbb4_KkLk0WIn3SzR1/</link>
+<thumbnail>https://i.ytimg.com/vi/KKQ83tEv-5Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAeSKhNFnRBgGeVot2pRk6Isqpbzw</thumbnail>
+</plugin>
+
+<plugin>
+<title>COLINS SANDWICH</title>
+<link>plugin://plugin.video.youtube/playlist/PLYT48tMHCxMK9wZFWi5bqewRiJYmtLP4k/</link>
+<thumbnail>https://i.ytimg.com/vi/v5mpWB9_66w/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCy-ywX_a0SuTj8dgGxLgRBGNGUGw</thumbnail>
+</plugin>
+
+<plugin>
 <title>GEORGE AND MILDRED</title>
 <link>plugin://plugin.video.youtube/playlist/PLT2ek4omyo0cbVdGLaP_2ixzaK4Rinueg/</link>
 <thumbnail>https://i.ytimg.com/vi/TKz_dwlkg8A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBO-wfrQCaFsi9guxoNWdtlHClisA</thumbnail>
@@ -122,6 +206,18 @@
 <title>GEORGE AND MILDRED 2 test</title>
 <link>plugin://plugin.video.youtube/user/MargoLeadbetter1/</link>
 <thumbnail>https://i.ytimg.com/vi/-ON_sEGUQv4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvsX0fzkhsqZu1QGemfwiHDRgTKw</thumbnail>
+</plugin>
+
+<item>
+<title>GEORGE AND MILDRED THE MOVIE</title>
+<link>https://www.youtube.com/watch?v=h3tiSH9EJB8</link>
+<thumbnail>https://i.ytimg.com/vi/h3tiSH9EJB8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCINixtHevazc_j6cEQstsI9b46Ug</thumbnail>
+</item>
+
+<plugin>
+<title>HOME TO ROOST</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YlgcB0Y42W-Hs4JMyj7GpijS/</link>
+<thumbnail>https://i.ytimg.com/vi/4eHr0PQkkOQ/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDR8SLECeMrS71QYcotmtGqsxG6Xg</thumbnail>
 </plugin>
 
 <plugin>
@@ -143,9 +239,21 @@
 </plugin>
 
 <plugin>
+<title>FRESH FIELDS/FRENCH FIELDS</title>
+<link>plugin://plugin.video.youtube/playlist/PLYT48tMHCxMKZ-Irf8eAsx2PuenXdgZUH/</link>
+<thumbnail>https://i.ytimg.com/vi/8D1o0EQdk5A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBayi3-LtAGKHYxw5ylk9oihRFJlQ</thumbnail>
+</plugin>
+
+<plugin>
 <title>UP THE ELEPHANT AND ROUND THE CASTLE</title>
 <link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1W3ZU_8IisW2hJdytHMvY9i/</link>
 <thumbnail>https://i.ytimg.com/vi/4Oo__OrhR1Q/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD6RL-wYlJV0FJZfSkh53I2YECX0w</thumbnail>
+</plugin>
+
+<plugin>
+<title>BREAD</title>
+<link>plugin://plugin.video.youtube/playlist/PLYT48tMHCxMLVMrSRH3U1EfR9KF08sCag/</link>
+<thumbnail>https://i.ytimg.com/vi/SgjfgNKSTEs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAppYhXOD-RR7KNMwPpT9a2RoY9lw</thumbnail>
 </plugin>
 
 <plugin>
@@ -153,6 +261,19 @@
 <link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1VcLUR-TbtI7CG-2M_CXO90/</link>
 <thumbnail>https://i.ytimg.com/vi/PGxFXROIZmU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCKgvAHETZbKxAncCDkZFsgHd9pTQ</thumbnail>
 </plugin>
+
+<item>
+<title>ON THE BUSES THE MOVIE</title>
+<link>https://www.youtube.com/watch?v=wGq0mGSmgcA</link>
+<thumbnail>https://i.ytimg.com/vi/wGq0mGSmgcA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcLVV-580z2Qf7I5JweEDLRG-NaQ</thumbnail>
+</item>
+
+<plugin>
+<title>THE THIN BLUE LINE</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZVDQGC2kwEWTOBrEVN6aRME/</link>
+<thumbnail>https://i.ytimg.com/vi/MHET-0KjXaI/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAJ1eGX-tHPE7YWmy72RgO7pXXC1w</thumbnail>
+</plugin>
+
 Single Link
 
 <item>
