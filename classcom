@@ -77,6 +77,12 @@
 </plugin>
 
 <plugin>
+<title>CATHERINE TATE</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWN8T_1_G9Tt2PEGPQkVdRg/</link>
+<thumbnail>https://i.ytimg.com/vi/Gc8dlMw2oQ8/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAXhb8PTaEyhgNIwl8ml365sVc5XA</thumbnail>
+</plugin>
+
+<plugin>
 <title>ONLY WHEN I LAUGH</title>
 <link>plugin://plugin.video.youtube/playlist/PLhlVXiZXtfqgAaaSn8ecX6iX9nhVUJ5C3/</link>
 <thumbnail>https://i.ytimg.com/vi/-24ZMsVmHpU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBbF7hyK77QvCuI1wV2BAk460d5BA</thumbnail>
@@ -119,15 +125,21 @@
 </plugin>
 
 <plugin>
-<title>GEORGE AND MILDRED 2</title>
-<link>plugin://plugin.video.youtube/playlist//</link>
-<thumbnail>https://i.ytimg.com/vi/TKz_dwlkg8A/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBO-wfrQCaFsi9guxoNWdtlHClisA</thumbnail>
+<title>SHELLY</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWYDIj0bF7l3n-fxfeuaoNT/</link>
+<thumbnail>https://i.ytimg.com/vi/VE-qTgSvoTs/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBk46j_50IABOFyIVMeBFLX_lafxw</thumbnail>
 </plugin>
 
 <plugin>
 <title>DINNER LADIES</title>
 <link>plugin://plugin.video.youtube/playlist//</link>
 <thumbnail>https://i.ytimg.com/vi/W_2tktLOV3I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7Jc0oUd8QntF7_XCfAZS7y6tWzQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>TERRY AND JUNE</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZWSm9TMP5sqx09EyGPTn2s1/</link>
+<thumbnail>https://i.ytimg.com/vi/Y-RduSlq6us/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDPM5Xh-9Zy9VjKDd-CI9iIga6rBQ</thumbnail>
 </plugin>
 
 <plugin>
