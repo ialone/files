@@ -13,9 +13,36 @@
 </dir>
 
 <dir>
+<name>GEMINI COMEDY GOLD</name>
+<link>https://raw.githubusercontent.com/ialone/files/master/classcom</link>
+<thumbnail>https://i.imgur.com/KpysUQZ.png</thumbnail>
+</dir>
+
+<dir>
 <name>GEMINI BLOOPERS / UNSEEN COMEDY</name>
 <link>https://raw.githubusercontent.com/ialone/files/master/bloopers</link>
 <thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>GEMINI IRELAND</name>
+<link>https://raw.githubusercontent.com/ialone/files/master/geminiireland%20main</link>
+<thumbnail>https://i.ytimg.com/vi/R-Q06O8rTC0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWIECp3O5D7yo8RgAwf9wC10O_hA</thumbnail>
+<fanart>https://i.imgur.com/S39wNRM.jpg</fanart>
+</dir>
+
+<dir>
+<name>GEMINI SHED</name>
+<link>https://raw.githubusercontent.com/ialone/files/master/SHED</link>
+<thumbnail>https://i.imgur.com/x1GT5a8.jpg</thumbnail>
+<fanart></fanart>
+</dir>
+
+<dir>
+<name>GEMINI LIVE IN CONCERT</name>
+<link>https://raw.githubusercontent.com/ialone/files/master/inconcert</link>
+<thumbnail>https://i.imgur.com/Kpmme6m.gif</thumbnail>
 <fanart></fanart>
 </dir>
 
@@ -44,27 +71,6 @@
 <name>GEMINI DOCUMENTARIES</name>
 <link>https://raw.githubusercontent.com/ialone/files/master/documentary%20main</link>
 <thumbnail>https://i.imgur.com/0uKZTPi.png</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>GEMINI IRELAND</name>
-<link>https://raw.githubusercontent.com/ialone/files/master/geminiireland%20main</link>
-<thumbnail>https://i.ytimg.com/vi/R-Q06O8rTC0/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBWIECp3O5D7yo8RgAwf9wC10O_hA</thumbnail>
-<fanart>https://i.imgur.com/S39wNRM.jpg</fanart>
-</dir>
-
-<dir>
-<name>GEMINI SHED</name>
-<link>https://raw.githubusercontent.com/ialone/files/master/SHED</link>
-<thumbnail>https://i.imgur.com/x1GT5a8.jpg</thumbnail>
-<fanart></fanart>
-</dir>
-
-<dir>
-<name>GEMINI LIVE IN CONCERT</name>
-<link>https://raw.githubusercontent.com/ialone/files/master/inconcert</link>
-<thumbnail>https://i.imgur.com/Kpmme6m.gif</thumbnail>
 <fanart></fanart>
 </dir>
 
