@@ -1,4 +1,10 @@
 <plugin>
+<title>SPITTING IMAGE</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YliHQCdoxpfoCTq-rFIwWY0o/</link>
+<thumbnail>https://i.ytimg.com/vi/BZMuS5ABJ1g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHHzv8D0mBb3slIunhu5-jqufQQA</thumbnail>
+</plugin>
+
+<plugin>
 <title>CITIZEN SMITH</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXkF-lzAR-ESDOTPq8BACTW/</link>
 <thumbnail>https://i.ytimg.com/vi/jNDysAzhAaw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCR0q3qh1C5QET5xgexZUZFDYhZsQ</thumbnail>
@@ -8,6 +14,18 @@
 <title>GAME ON</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXR0FFd9gI2Xd5nqe0Ci2-A/</link>
 <thumbnail>https://i.ytimg.com/vi/bmKgN3HZEb0/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBrJ8hqrF7QQO8BvK5o990W6Uc6ig</thumbnail>
+</plugin>
+
+<plugin>
+<title>THE BRITTAS EMPIRE</title>
+<link>plugin://plugin.video.youtube/playlist/PLRRxgaLFf4o6ykPt4kfA3sSMNkaXlbXrB/</link>
+<thumbnail>https://i.ytimg.com/vi/TD9eTVyNKm4/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAhGwb1MK-PfBA2f8irDdn_psn4Aw</thumbnail>
+</plugin>
+
+<plugin>
+<title>RHODA</title>
+<link>plugin://plugin.video.youtube/playlist/PLeagipoZmyfm4WFuHFqLQfdtsyyZTBLNL/</link>
+<thumbnail>https://i.ytimg.com/vi/db2bJjiDMHg/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDC7Mzowt2Lm8tBM8j8uSSPPLXqPQ</thumbnail>
 </plugin>
 
 <plugin>
@@ -23,9 +41,27 @@
 </plugin>
 
 <plugin>
+<title>THE FALL AND RISE OF REGGIE PERRIN</title>
+<link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZU8AixsVuAtGrm1PWDRVmwY/</link>
+<thumbnail>https://i.ytimg.com/vi/f3wt8uNiBss/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBBRQsqugmwEvyhtw7FQMFtMQig7g</thumbnail>
+</plugin>
+
+<plugin>
 <title>OPEN ALL HOURS</title>
 <link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9Ylg6kwwbHH_IJZvVAxNmvzto/</link>
 <thumbnail>https://i.ytimg.com/vi/Nni3oz7Q_aA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbe6nB59EGbMcrMQ9g3pBpARR2xQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>TRIPPERS DAY</title>
+<link>plugin://plugin.video.youtube/playlist/PLIqEEvivMTergVfS29nVF0_YOVdBXTogq/</link>
+<thumbnail>https://i.ytimg.com/vi/fV7WyTmnDr0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAt0UZGPAPu22tAGYeWrTcSHN7hqg</thumbnail>
+</plugin>
+
+<plugin>
+<title>SLINGERS DAY</title>
+<link>plugin://plugin.video.youtube/playlist/PLRRxgaLFf4o4N6W-ZNCEohvzPvVGoued-/</link>
+<thumbnail>https://i.ytimg.com/vi/HZbxGq_TsCY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBKLWkl94uByqMEIwlqLXlu3Ki_Fg</thumbnail>
 </plugin>
 
 <plugin>
@@ -68,6 +104,12 @@
 <title>BUTTERFLIES</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZVZPnT5YTa4Q1bJ-pYyCeGf/</link>
 <thumbnail>https://i.ytimg.com/vi/47i65IMzeVA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDVURIUzwdw5G1N2cjvQieSXZJAsA</thumbnail>
+</plugin>
+
+<plugin>
+<title>FILTHY RICH AND CATFLAP</title>
+<link>plugin://plugin.video.youtube/playlist/PLRRxgaLFf4o6cnWoYhQ06pN6hU5yboVAB/</link>
+<thumbnail>https://i.ytimg.com/vi/v0hzX4VBcl0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLD2Y7moGciC_dR5rkwG40a60LSc-w</thumbnail>
 </plugin>
 
 <plugin>
@@ -173,6 +215,12 @@
 </plugin>
 
 <plugin>
+<title>ROBINS NEST</title>
+<link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9Yli7GQnav78PekPx2zKdrJfF/</link>
+<thumbnail>https://i.ytimg.com/vi/TJEq0M27XCE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDlgWLaX6wbT83v88ERHxP0vAB4lQ</thumbnail>
+</plugin>
+
+<plugin>
 <title>GOING STRAIGHT</title>
 <link>plugin://plugin.video.youtube/playlist/PLZ7P_xv7lyu1QvkUYv-Xq-Ay1bCoaMyPm/</link>
 <thumbnail>https://i.ytimg.com/vi/ikzzxtpyTjA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAh9oOnQo6Rbc83BSVwq4X_IkAWNg</thumbnail>
@@ -195,6 +243,12 @@
 <link>https://www.youtube.com/watch?v=WBp_phIrjPU</link>
 <thumbnail>https://i.ytimg.com/vi/WBp_phIrjPU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBI76gQdjgXdqLDGhgTZxZwleOT2w</thumbnail>
 </item>
+
+<plugin>
+<title>COWBOYS</title>
+<link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1W7woGbZQno8WEAgeihbhyB/</link>
+<thumbnail>https://i.ytimg.com/vi/8cc8J-ZLn8c/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDUe3Fypj-y5oInaNjjbIRGnK9q6A</thumbnail>
+</plugin>
 
 <plugin>
 <title>SOME MOTHERS DO AVE EM</title>
@@ -242,6 +296,12 @@
 <title>DINNER LADIES</title>
 <link>plugin://plugin.video.youtube/playlist//</link>
 <thumbnail>https://i.ytimg.com/vi/W_2tktLOV3I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD7Jc0oUd8QntF7_XCfAZS7y6tWzQ</thumbnail>
+</plugin>
+
+<plugin>
+<title>GEORGE AND THE DRAGON</title>
+<link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1VKmSjEsOldsHD9HFf3QoSI/</link>
+<thumbnail>https://i.ytimg.com/vi/t9YsRbBPteU/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDhVO3hJPhGOR5CrqY2Y3mwJ9mbnA</thumbnail>
 </plugin>
 
 <plugin>
