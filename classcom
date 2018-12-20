@@ -5,6 +5,12 @@
 </plugin>
 
 <plugin>
+<title>CHRISTMAS SPECIALS</title>
+<link>plugin://plugin.video.youtube/playlist/PLtMV9c9Wk6MNB46QmnFYitYr07tPuSD8h/</link>
+<thumbnail>https://i.ytimg.com/vi/CxlTj8MpnEE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBVKBnnq1XGQQRcXsnn_hKzFwdbA</thumbnail>
+</plugin>
+
+<plugin>
 <title>CITIZEN SMITH</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXkF-lzAR-ESDOTPq8BACTW/</link>
 <thumbnail>https://i.ytimg.com/vi/jNDysAzhAaw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCR0q3qh1C5QET5xgexZUZFDYhZsQ</thumbnail>
@@ -363,6 +369,12 @@
 <link>https://www.youtube.com/watch?v=fJ9GYz9udLU</link>
 <thumbnail>https://i.ytimg.com/vi/fJ9GYz9udLU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB2q80R3enXT2Jgk7DoyYcgDmWgQw</thumbnail>
 </item>
+
+<plugin>
+<title>RISING DAMP</title>
+<link>plugin://plugin.video.youtube/playlist/PLO8cx63AePcpCgzCgTyS8ZP_rkXyTUEUS/</link>
+<thumbnail>https://i.ytimg.com/vi/Ean2SNX-sgM/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBELRfegAOU-NHbORx8P6nOwzpmJQ</thumbnail>
+</plugin>
 
 <plugin>
 <title>MR BEAN</title>
