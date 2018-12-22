@@ -53,6 +53,13 @@
 </plugin>
 
 <plugin>
+<title>YES MINISTER</title>
+<link>plugin://plugin.video.youtube/user/50Centdu69120/</link>
+<thumbnail>https://i.ytimg.com/vi/j-ez9XZWG7A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC9lCG8r5JDPENa8pQ77e75S6Wfhw</thumbnail>
+</plugin>
+
+
+<plugin>
 <title>OPEN ALL HOURS</title>
 <link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9Ylg6kwwbHH_IJZvVAxNmvzto/</link>
 <thumbnail>https://i.ytimg.com/vi/Nni3oz7Q_aA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDbe6nB59EGbMcrMQ9g3pBpARR2xQ</thumbnail>
@@ -142,6 +149,18 @@
 <thumbnail>https://i.ytimg.com/vi/LZThRzEhVPc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBtvva3ycdS6_hlASXd9KorYRGOFA</thumbnail>
 </item>
 
+<item>
+<title>STEPTOE AND SON CHRISTMAS SPECIAL 1973</title>
+<link>https://www.youtube.com/watch?v=CxlTj8MpnEE</link>
+<thumbnail>https://i.ytimg.com/vi/CxlTj8MpnEE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBVKBnnq1XGQQRcXsnn_hKzFwdbA</thumbnail>
+</item>
+
+<item>
+<title>STEPTOE AND SON CHRISTMAS SPECIAL 1974</title>
+<link>https://www.youtube.com/watch?v=pVLKR8oH-T4</link>
+<thumbnail>https://i.ytimg.com/vi/CxlTj8MpnEE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBVKBnnq1XGQQRcXsnn_hKzFwdbA</thumbnail>
+</item>
+
 <plugin>
 <title>UP POMPEII</title>
 <link>plugin://plugin.video.youtube/playlist/PLAPGcD5LGrp4FJVyyhr_t9bYB6D1E_rEO/</link>
@@ -201,6 +220,12 @@
 <link>plugin://plugin.video.youtube/playlist/PLGMxd7mN-H1WODI23rnmphGWCrvMYNJMr/</link>
 <thumbnail>https://i.ytimg.com/vi/tqF7YePn9Og/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAzxKfU_5OXhzWceX-kZXni90MIVg</thumbnail>
 </plugin>
+
+<item>
+<title>TILL DEATH US DO PART CHRISTMAS SPECIAL 1972</title>
+<link>https://www.youtube.com/watch?v=Bipo1YqWlTc</link>
+<thumbnail>https://i.ytimg.com/vi/Bipo1YqWlTc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRmYbQc3oZUgnp10blNyIKf8aWow</thumbnail>
+</item>
 
 <plugin>
 <title>IN SICKNESS AND IN HEALTH</title>
