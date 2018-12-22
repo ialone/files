@@ -47,6 +47,12 @@
 </plugin>
 
 <plugin>
+<title>RAB C NESBITT</title>
+<link>plugin://plugin.video.youtube/playlist/PLzE_YcUQmigdjC6N1sWnzP6Foru36rU-x/</link>
+<thumbnail>https://i.ytimg.com/vi/o89RRJ8Vkq0/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLAVHJfRHILsABV6Zm76nJ14lauHww</thumbnail>
+</plugin>
+
+<plugin>
 <title>THE FALL AND RISE OF REGGIE PERRIN</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZU8AixsVuAtGrm1PWDRVmwY/</link>
 <thumbnail>https://i.ytimg.com/vi/f3wt8uNiBss/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBBRQsqugmwEvyhtw7FQMFtMQig7g</thumbnail>
@@ -75,6 +81,12 @@
 <title>SLINGERS DAY</title>
 <link>plugin://plugin.video.youtube/playlist/PLRRxgaLFf4o4N6W-ZNCEohvzPvVGoued-/</link>
 <thumbnail>https://i.ytimg.com/vi/HZbxGq_TsCY/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBKLWkl94uByqMEIwlqLXlu3Ki_Fg</thumbnail>
+</plugin>
+
+<plugin>
+<title>LAST OF THE SUMMER WINE</title>
+<link>plugin://plugin.video.youtube/playlist/PL152bjytsMC73eGJ-boQYjTISUzZXMjcm/</link>
+<thumbnail>https://i.ytimg.com/vi/wHbUuvHBUbo/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBWnWwz1UpKUaRY_QJex86lJkypNA</thumbnail>
 </plugin>
 
 <plugin>
@@ -117,6 +129,12 @@
 <title>BUTTERFLIES</title>
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZVZPnT5YTa4Q1bJ-pYyCeGf/</link>
 <thumbnail>https://i.ytimg.com/vi/47i65IMzeVA/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLDVURIUzwdw5G1N2cjvQieSXZJAsA</thumbnail>
+</plugin>
+
+<plugin>
+<title>MIND YOUR LANGUAGE</title>
+<link>plugin://plugin.video.youtube/playlist/PLOCJhiuTHcH48mzkwgrxjTj_1D-n3EVhE/</link>
+<thumbnail>https://i.ytimg.com/vi/Nl34LouS3wY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDu7lzxv8pKU1RDEzCI6Uog_f4Nig</thumbnail>
 </plugin>
 
 <plugin>
