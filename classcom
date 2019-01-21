@@ -11,6 +11,12 @@
 </plugin>
 
 <plugin>
+<title>bottom test 3</title>
+<link>plugin://plugin.video.dailymotion_com/?url=x6fsn4q&mode=playLiveVideo</link>
+<thumbnail>https://i.ytimg.com/vi/BZMuS5ABJ1g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHHzv8D0mBb3slIunhu5-jqufQQA</thumbnail>
+</plugin>
+
+<plugin>
 <title>SPITTING IMAGE</title>
 <link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YliHQCdoxpfoCTq-rFIwWY0o/</link>
 <thumbnail>https://i.ytimg.com/vi/BZMuS5ABJ1g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHHzv8D0mBb3slIunhu5-jqufQQA</thumbnail>
