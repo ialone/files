@@ -1,4 +1,16 @@
 <plugin>
+<title>bottom test</title>
+<link>plugin://plugin.video.dailymotion/playlist/x5zvty/</link>
+<thumbnail>https://i.ytimg.com/vi/BZMuS5ABJ1g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHHzv8D0mBb3slIunhu5-jqufQQA</thumbnail>
+</plugin>
+
+<plugin>
+<title>bottom test 2</title>
+<link>plugin://plugin.video.dailymotion.com/playlist/x5zvty/</link>
+<thumbnail>https://i.ytimg.com/vi/BZMuS5ABJ1g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHHzv8D0mBb3slIunhu5-jqufQQA</thumbnail>
+</plugin>
+
+<plugin>
 <title>SPITTING IMAGE</title>
 <link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YliHQCdoxpfoCTq-rFIwWY0o/</link>
 <thumbnail>https://i.ytimg.com/vi/BZMuS5ABJ1g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHHzv8D0mBb3slIunhu5-jqufQQA</thumbnail>
