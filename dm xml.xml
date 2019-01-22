@@ -59,9 +59,17 @@
 </plugin>
 
 
+<plugin>
+<name>DM TESTING</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fcynthiafieldstv%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail></thumbnail>
+</plugin>
 
-
-
+<plugin>
+<name>DM TESTING 2</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listUservideos&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fcynthiafieldstv%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail></thumbnail>
+</plugin>
 
 
 
