@@ -457,6 +457,13 @@ http://www.dailymotion.com/farmerjohn053
 <thumbnail>https://i.ytimg.com/vi/wrRSnHXgt8Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIQ2qfxKeiEIk3_bFGfyZ7xMmg8A</thumbnail>
 </plugin>
 
+<dir>
+<name>COMEDY EXTRAS</name>
+<link>https://raw.githubusercontent.com/ialone/files/master/dm%20xml.xml</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
 Single Link
 
 <item>
