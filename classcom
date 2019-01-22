@@ -5,6 +5,12 @@
 </plugin>
 
 <plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist//</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
 <title>CHRISTMAS SPECIALS</title>
 <link>plugin://plugin.video.youtube/playlist/PLtMV9c9Wk6MNB46QmnFYitYr07tPuSD8h/</link>
 <thumbnail>https://i.ytimg.com/vi/CxlTj8MpnEE/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLCBVKBnnq1XGQQRcXsnn_hKzFwdbA</thumbnail>
@@ -21,8 +27,6 @@
 <link>plugin://plugin.video.youtube/playlist/PL32DD5A81B15F1FF9/</link>
 <thumbnail>https://i.ytimg.com/vi/yUaCQnljVmY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_7O24dqhSAPM32i4KF10RosKxxQ</thumbnail>
 </plugin>
-
-
 
 <plugin>
 <title>GAME ON</title>
