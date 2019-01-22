@@ -17,6 +17,12 @@
 </plugin>
 
 <plugin>
+<name>Dailymotion Redbull Playlist</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fRedBull%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
 <title>SPITTING IMAGE</title>
 <link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YliHQCdoxpfoCTq-rFIwWY0o/</link>
 <thumbnail>https://i.ytimg.com/vi/BZMuS5ABJ1g/hqdefault.jpg?sqp=-oaymwEiCKgBEF5IWvKriqkDFQgBFQAAAAAYASUAAMhCPQCAokN4AQ==&rs=AOn4CLBHHzv8D0mBb3slIunhu5-jqufQQA</thumbnail>
