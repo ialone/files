@@ -1,35 +1,3 @@
-<item>
-<name>DM video test 1</name>
-<link>https://www.dailymotion.com/video/x6szwvh</link>
-<thumbnail></thumbnail>
-</item>
-
-<item>
-<name>DM Playlist test 5</name>
-<link>https://www.dailymotion.com/playlist/x5zvty</link>
-<thumbnail></thumbnail>
-</item>
-blob:https://www.dailymotion.com/a1b14ea8-545a-47d3-9398-9434a40a22d7
-https://dmxleo.dailymotion.com/cdn/manifest/video/x6y032i.m3u8?auth=1548332182-2562-1254k3oo-49e44796fdade5cca5592f53314b16f8q1254k3oo&bs=1
-<plugin>
-<name>DM Playlist test 2</name>
-<link>plugin://plugin.video.dailymotion_com/?mode=listPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fx5zvty%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<name>Dailymotion Redbull Playlist</name>
-<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2ffarmerjohn053%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<name>DM test Playlist</name>
-<link>plugin://plugin.video.dailymotion_com/?mode=listUserPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fRedBull%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
-<thumbnail></thumbnail>
-</plugin>
-
-http://www.dailymotion.com/farmerjohn053
 <plugin>
 <title>SPITTING IMAGE</title>
 <link>plugin://plugin.video.youtube/playlist/PLWKi-PXV9YliHQCdoxpfoCTq-rFIwWY0o/</link>
@@ -47,6 +15,14 @@ http://www.dailymotion.com/farmerjohn053
 <link>plugin://plugin.video.youtube/playlist/PL30VFFlIa0ZXkF-lzAR-ESDOTPq8BACTW/</link>
 <thumbnail>https://i.ytimg.com/vi/jNDysAzhAaw/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLCR0q3qh1C5QET5xgexZUZFDYhZsQ</thumbnail>
 </plugin>
+
+<plugin>
+<title>ARE YOU BEING SERVED</title>
+<link>plugin://plugin.video.youtube/playlist/PL32DD5A81B15F1FF9/</link>
+<thumbnail>https://i.ytimg.com/vi/yUaCQnljVmY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_7O24dqhSAPM32i4KF10RosKxxQ</thumbnail>
+</plugin>
+
+
 
 <plugin>
 <title>GAME ON</title>
