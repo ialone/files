@@ -35,13 +35,7 @@
 </plugin>
 
 <plugin>
-<name>LAST OF THE SUMMER WINE (s01-s10)TEST</name>
-<link>plugin://plugin.video.dailymotion_com/?mode=showPlaylist&amp;url=x5w62s__LAST%2bOF%2bTHE%2bSUMMER%2bWINE%2b(S01-S10)&quot;,return)</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-<name>LAST OF THE SUMMER WINE (s01-s10)TEST 3</name>
+<name>LAST OF THE SUMMER WINE (s01-s10)</name>
 <link>plugin://plugin.video.dailymotion_com/?mode=showPlaylist&amp;url=x5w62s__LAST%2bOF%2bTHE%2bSUMMER%2bWINE%2b(S01-S10)&quot;,return)</link>
 <thumbnail></thumbnail>
 </plugin>
