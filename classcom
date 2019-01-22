@@ -1,3 +1,10 @@
+<item>
+<name>DM Playlist test 3</name>
+<link>https://dmxleo.dailymotion.com/cdn/manifest/video/x6y032i.m3u8?auth=1548332182-2562-1254k3oo-49e44796fdade5cca5592f53314b16f8q1254k3oo&bs=1</link>
+<thumbnail></thumbnail>
+</item>
+
+https://dmxleo.dailymotion.com/cdn/manifest/video/x6y032i.m3u8?auth=1548332182-2562-1254k3oo-49e44796fdade5cca5592f53314b16f8q1254k3oo&bs=1
 <plugin>
 <name>DM Playlist test 2</name>
 <link>plugin://plugin.video.dailymotion_com/?mode=listPlaylists&amp;url=https%3a%2f%2fapi.dailymotion.com%2fuser%2fx5zvty%2fplaylists%3ffields%3did%2cname%2cvideos_total%26sort%3drecent%26limit%3d50%26family_filter%3d1%26localization%3den_GB%26page%3d1&quot;,return)</link>
