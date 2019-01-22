@@ -71,7 +71,11 @@
 <thumbnail></thumbnail>
 </plugin>
 
-
+<plugin>
+<name>DM TESTING 5</name>
+<link>plugin://plugin.video.dailymotion_com/?mode=showvideost&amp;url=cynthiafieldstv&quot;,return)</link>
+<thumbnail></thumbnail>
+</plugin>
 
 
 
