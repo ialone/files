@@ -1,36 +1,4 @@
-<item>
-<title>BLOODY FRIDAY</title>
-<link>https://www.youtube.com/watch?v=3s1iH3z8EhY</link>
-<thumbnail>https://i.ytimg.com/vi/3s1iH3z8EhY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA79DnFYbOctR0iOWoFCZ9GoTvizg</thumbnail>
-</item>
 
-<item>
-<title>Belfast 1969 : The Dawn of the Troubles ( Shankill / Falls Road 1969)</title>
-<link>https://www.youtube.com/watch?v=MS9jI12JwFY</link>
-<thumbnail>https://i.ytimg.com/vi/MS9jI12JwFY/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCfE24pE6gx8NdIRkSKiYutFcM-Sg</thumbnail>
-</item>
-
-<item>
-<title>BLANKET MEN</title>
-<link>https://www.youtube.com/watch?v=QxTlxIoDVvI</link>
-<thumbnail>https://i.ytimg.com/vi/yZFQyVNjZ0k/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2QhjGbhEuM-BIA72CNgYT0C5r_g</thumbnail>
-</item>
-
-<plugin>
-<title></title>
-<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-<thumbnail></thumbnail>
-</plugin>
-
-<plugin>
-
-<title></title>
-
-<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
-
-<thumbnail></thumbnail>
-
-</plugin>
 
 
 
