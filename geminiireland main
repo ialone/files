@@ -16,9 +16,21 @@
 <thumbnail>https://i.ytimg.com/vi/yZFQyVNjZ0k/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB2QhjGbhEuM-BIA72CNgYT0C5r_g</thumbnail>
 </item>
 
+<plugin>
+<title></title>
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+<thumbnail></thumbnail>
+</plugin>
 
+<plugin>
 
+<title></title>
 
+<link>plugin://plugin.video.youtube/playlist/**PLAYLIST NUMBER**/</link>
+
+<thumbnail></thumbnail>
+
+</plugin>
 
 
 
